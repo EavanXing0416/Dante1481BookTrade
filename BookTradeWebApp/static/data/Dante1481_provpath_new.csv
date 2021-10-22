@@ -1,859 +1,1371 @@
-﻿id,areaname,placename,lon,lat,start,end,loctype,starttype,endtype,auto_id
-2130036,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",1
-2130036,Switzerland,Zurich,8.55,47.3667,1481,2021,accurate,NoInfo,"accurate",2
-2011876,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",3
-2011876,Italy,Venice,12.3309,45.4389,1481,1797,accurate,NoInfo,"accurate",4
-2011876,Italy,Venice,12.3309,45.4389,1701,1800,accurate,accurate,"approx",5
-2011876,France,Paris,2.3488,48.8534,1797,2021,accurate,accurate,"accurate",6
-2013851,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",7
-2013851,Italy,Italy,12.8333,42.8333,1501,1600,accurate,accurate,"approx",8
-2013851,NoInfo,NoInfo,12.8333,42.8333,1800,1900,NoInfo,approx,"approx",9
-2013851,United Kingdom,Maldon,0.67463,51.7311,1940,1963,accurate,accurate,"accurate",10
-2013851,United Kingdom,London,-0.12574,51.5085,2000,2001,accurate,approx,"accurate",11
-2013851,Greece,Athens,23.7278,37.9838,2015,2015,accurate,accurate,"accurate",12
-2013851,Greece,Athens,23.7278,37.9838,2015,2021,accurate,accurate,"accurate",13
-2141340,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",14
-2141340,Italy,Genoa,8.94439,44.4048,1765,1945,accurate,accurate,"accurate",15
-2140781,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",16
-2140781,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",17
-2140781,Italy,NoInfo,12.8333,42.8333,1625,1703,approx,accurate,"accurate",18
-2140781,NoInfo,NoInfo,12.8333,42.8333,1701,1800,NoInfo,accurate,"approx",19
-2140781,Italy,Florence,11.2463,43.7793,1752,2021,accurate,accurate,"accurate",20
-2141376,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",21
-2141376,Italy,Florence,11.2463,43.7793,1894,1916,accurate,accurate,"accurate",22
-2141376,Italy,Florence,11.2463,43.7793,1921,2021,accurate,accurate,"accurate",23
-2141406,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",24
-2141406,Italy,NoInfo,12.8333,42.8333,1481,1700,approx,accurate,"approx",25
-2141406,Belgium,Brussels,4.34878,50.8504,1850,1890,accurate,approx,"accurate",26
-2141406,Italy,Castiglione,9.99271,44.2955,1929,2012,accurate,accurate,"accurate",27
-2019494,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",28
-2019494,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",29
-2019494,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,NoInfo,"NoInfo",30
-2019494,Italy,Milan,9.18951,45.4643,1800,2021,accurate,approx,"accurate",31
-2141444,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",32
-2141444,Italy,Florence,11.2463,43.7793,1481,1500,accurate,accurate,"approx",33
-2141444,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",34
-2141444,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",35
-2141444,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",36
-2141444,Italy,Palermo,13.3356,38.132,1788,2021,accurate,accurate,"accurate",37
-2141466,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",38
-2141466,United States,Cambridge,-71.1056,42.3751,1950,1984,accurate,approx,"accurate",39
-2141466,United States,Cambridge,-71.1056,42.3751,1984,2021,accurate,accurate,"accurate",40
-2013814,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",41
-2013814,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",42
-2013814,United Kingdom,Euston,0.78599,52.3792,1781,1815,accurate,accurate,"accurate",43
-2013814,United Kingdom,London,-0.12574,51.5085,1815,1825,accurate,accurate,"accurate",44
-2013814,United Kingdom,London,-0.12574,51.5085,1825,1866,accurate,accurate,"accurate",45
-2013814,United Kingdom,London,-0.12574,51.5085,1867,1867,accurate,accurate,"accurate",46
-2013814,United Kingdom,Dunecht,-2.40945,57.1718,1867,1887,accurate,accurate,"accurate",47
-2013814,United States,Boston,-71.0598,42.3584,1887,1903,accurate,accurate,"accurate",48
-2013814,United States,Boston,-71.0598,42.3584,1903,2021,accurate,accurate,"accurate",49
-2141160,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",50
-2141160,Italy,NoInfo,12.8333,42.8333,1481,1481,approx,NoInfo,"NoInfo",51
-2141160,United Kingdom,Althorp,-1.00095,52.2811,1792,1481,accurate,accurate,"NoInfo",52
-2141160,United Kingdom,London,-0.12574,51.5085,1757,1829,accurate,accurate,"accurate",53
-2141160,United Kingdom,London,-0.12574,51.5085,1829,1829,accurate,accurate,"accurate",54
-2141160,United Kingdom,London,-0.12574,51.5085,1829,2021,accurate,accurate,"accurate",55
-2141529,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",56
-2141529,Germany,Schweinfurt,10.2218,50.0494,1960,2000,accurate,accurate,"approx",57
-2141529,United States,New York,-74.006,40.7143,1996,2021,accurate,accurate,"accurate",58
-2140753,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",59
-2140753,Italy,Camaldoli,11.8203,43.7936,1854,1856,accurate,accurate,"accurate",60
-2140753,Italy,Poppi,11.7664,43.7212,1856,2021,accurate,accurate,"accurate",61
-2140643,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",62
-2140643,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",63
-2140643,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",64
-2140643,Italy,Capaccio,15.0798,40.4244,1481,1504,accurate,accurate,"accurate",65
-2140643,Vatican City,Vatican City,12.4533,41.9022,1504,1504,accurate,accurate,"NoInfo",66
-2140643,France,Paris,2.3488,48.8534,1797,2021,accurate,accurate,"accurate",67
-2140635,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",68
-2140635,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",69
-2140635,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",70
-2140635,Greece,Rhodes,28.222,36.4356,1481,1503,accurate,accurate,"accurate",71
-2140635,France,Paris,2.3488,48.8534,1792,2021,accurate,accurate,"accurate",72
-2140761,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",73
-2140761,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",74
-2140761,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",75
-2140761,Italy,Rome,12.5113,41.8919,1481,2021,accurate,NoInfo,"accurate",76
-2140633,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",77
-2140633,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",78
-2140633,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",79
-2140633,Italy,Florence,11.2463,43.7793,1601,1800,accurate,accurate,"approx",80
-2140633,France,Paris,2.3488,48.8534,1818,2021,accurate,accurate,"accurate",81
-2140985,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",82
-2140985,NoInfo,Europe,9.14062,48.691,1481,1550,accurate,accurate,"approx",83
-2140985,NoInfo,NoInfo,9.14062,48.691,1700,1800,NoInfo,approx,"approx",84
-2140985,France,Paris,2.3488,48.8534,1845,1934,accurate,accurate,"accurate",85
-2140985,France,Paris,2.3488,48.8534,1935,2021,accurate,accurate,"accurate",86
-2140771,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",87
-2140771,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",88
-2140771,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",89
-2140771,Italy,Florence,11.2463,43.7793,1501,1600,accurate,accurate,"approx",90
-2140771,Italy,Rome,12.5113,41.8919,1754,1883,accurate,accurate,"accurate",91
-2140771,Italy,Rome,12.5113,41.8919,1883,2021,accurate,accurate,"accurate",92
-2141568,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",93
-2141568,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",94
-2141568,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",95
-2141568,Italy,Florence,11.2463,43.7793,1481,1529,accurate,accurate,"accurate",96
-2141568,Italy,Florence,11.2463,43.7793,1794,1845,accurate,accurate,"accurate",97
-2141568,Italy,Florence,11.2463,43.7793,1805,1868,accurate,accurate,"accurate",98
-2141568,Italy,Florence,11.2463,43.7793,1824,1903,accurate,accurate,"accurate",99
-2141568,Italy,NoInfo,12.8333,42.8333,1949,2021,approx,accurate,"accurate",100
-2141271,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",101
-2141271,Italy,Milan,9.18951,45.4643,1481,1501,accurate,accurate,"accurate",102
-2141271,United States,Los Angeles,-118.244,34.0522,1963,2021,accurate,accurate,"accurate",103
-2141268,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",104
-2141268,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",105
-2141268,United States,New York,-74.006,40.7143,1921,1936,accurate,accurate,"accurate",106
-2141268,United States,Williamstown,-73.2037,42.712,1923,2021,accurate,accurate,"accurate",107
-2141017,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",108
-2141017,Italy,NoInfo,12.8333,42.8333,1601,1800,approx,accurate,"approx",109
-2141017,Italy,Livorno,10.3261,43.5443,1711,1792,accurate,accurate,"accurate",110
-2141017,Italy,Florence,11.2463,43.7793,1792,1810,accurate,accurate,"accurate",111
-2141017,Italy,Florence,11.2463,43.7793,1810,2021,accurate,accurate,"accurate",112
-2141530,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",113
-2141530,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",114
-2141530,Italy,Venice,12.3327,45.4371,1481,1806,accurate,NoInfo,"accurate",115
-2141530,Italy,Venice,12.3327,45.4371,1807,2021,accurate,accurate,"accurate",116
-2141555,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",117
-2141555,Japan,NoInfo,139.753,35.6854,1501,1600,approx,accurate,"approx",118
-2141555,United States,NoInfo,-57.6562,-14.6048,1850,1950,approx,approx,"approx",119
-2141555,United States,Urbana,-88.2073,40.1106,1965,2021,accurate,accurate,"accurate",120
-2140612,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",121
-2140612,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",122
-2140612,Belgium,Brussels,4.34878,50.8504,1481,2021,accurate,NoInfo,"accurate",123
-2140613,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",124
-2140613,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",125
-2140613,NoInfo,NoInfo,12.8333,42.8333,1501,1700,NoInfo,accurate,"approx",126
-2140613,Italy,Rome,12.5113,41.8919,1570,1630,accurate,accurate,"accurate",127
-2140613,United States,New Rochelle,-73.7823,40.9115,1920,1961,accurate,accurate,"accurate",128
-2140613,Belgium,Brussels,4.34878,50.8504,1963,2021,accurate,accurate,"accurate",129
-2141605,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",130
-2141605,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",131
-2141605,Russia,St Petersburg,30.3141,59.9386,1795,2021,accurate,accurate,"accurate",132
-2141250,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",133
-2141250,Italy,Florence,11.2463,43.7793,1512,1561,accurate,accurate,"accurate",134
-2141250,Italy,San Gimignano,11.0297,43.4738,1530,1530,accurate,accurate,"accurate",135
-2141250,United Kingdom,London,-0.12574,51.5085,1766,1827,accurate,accurate,"accurate",136
-2141250,Netherlands,Gemeente Amsterdam,4.89856,52.373,1981,2001,accurate,accurate,"accurate",137
-2007303,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",138
-2007303,Italy,NoInfo,12.8333,42.8333,1481,1481,approx,NoInfo,"NoInfo",139
-2007303,Italy,NoInfo,12.8333,42.8333,1501,1481,approx,accurate,"NoInfo",140
-2007303,Italy,NoInfo,12.8333,42.8333,1501,1700,approx,accurate,"approx",141
-2007303,Italy,Milan,9.19199,45.4642,1801,1700,accurate,accurate,"NoInfo",142
-2007303,Italy,Milan,9.19199,45.4642,1801,1700,accurate,accurate,"NoInfo",143
-2007303,Italy,Milan,9.19199,45.4642,1901,1700,accurate,accurate,"NoInfo",144
-2007303,Italy,NoInfo,12.8333,42.8333,1901,2021,approx,NoInfo,"accurate",145
-2141203,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",146
-2141203,United States,Providence,-71.4128,41.824,1907,1948,accurate,accurate,"accurate",147
-2141203,United States,Providence,-71.4128,41.824,1948,2021,accurate,accurate,"accurate",148
-2140668,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",149
-2140668,Germany,Hamburg,9.99302,53.5507,1481,2021,accurate,NoInfo,"accurate",150
-2140701,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",151
-2140701,Italy,Florence,11.2463,43.7793,1501,1600,accurate,accurate,"approx",152
-2140701,Italy,Florence,11.2463,43.7793,1714,1861,accurate,accurate,"accurate",153
-2140701,Italy,Florence,11.2463,43.7793,1861,2021,accurate,accurate,"accurate",154
-2141556,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",155
-2141556,Italy,Florence,11.2463,43.7793,1899,1899,accurate,accurate,"accurate",156
-2141556,Italy,Treia,13.3104,43.3085,1899,1902,accurate,accurate,"accurate",157
-2141556,United States,University of Notre Dame,-86.2392,41.7031,1902,2021,accurate,accurate,"accurate",158
-2140623,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",159
-2140623,NoInfo,Europe,9.14062,48.691,1481,1481,accurate,accurate,"NoInfo",160
-2140623,Italy,NoInfo,12.8333,42.8333,1659,1660,approx,accurate,"accurate",161
-2140623,France,Carpentras,5.04813,44.0551,1683,1757,accurate,accurate,"accurate",162
-2140623,France,Carpentras,5.04813,44.0551,1757,2021,accurate,accurate,"accurate",163
-2141180,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",164
-2141180,NoInfo,NoInfo,11.2463,43.7793,1801,2000,NoInfo,accurate,"approx",165
-2141180,NoInfo,NoInfo,11.2463,43.7793,1850,1950,NoInfo,approx,"approx",166
-2141180,United Kingdom,NoInfo,-2.69531,54.7584,1896,1921,approx,accurate,"accurate",167
-2141180,United Kingdom,London,-0.12574,51.5085,1921,2021,accurate,accurate,"accurate",168
-2141614,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",169
-2141614,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",170
-2141614,United States,Worcester,-71.8023,42.2626,1880,1929,accurate,accurate,"accurate",171
-2141614,United States,South Hadley,-72.5745,42.2584,1880,1974,accurate,NoInfo,"accurate",172
-2141614,United States,South Hadley,-72.5745,42.2584,1974,2021,accurate,accurate,"accurate",173
-2141350,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",174
-2141350,United Kingdom,NoInfo,-2.69531,54.7584,1701,1800,approx,accurate,"approx",175
-2141350,United Kingdom,Blenheim Palace,-1.36667,51.85,1717,1804,accurate,accurate,"accurate",176
-2141350,United Kingdom,Cambridge,0.11667,52.2,1804,2021,accurate,accurate,"accurate",177
-2140616,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",178
-2140616,Denmark,Copenhagen,12.5655,55.6759,1703,1785,accurate,accurate,"accurate",179
-2140616,Denmark,Copenhagen,12.5655,55.6759,1792,2021,accurate,accurate,"accurate",180
-2141622,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",181
-2141622,Italy,NoInfo,12.8333,42.8333,1481,1481,approx,NoInfo,"NoInfo",182
-2141622,Italy,Florence,11.2463,43.7793,1897,1910,accurate,accurate,"accurate",183
-2141622,United States,Baltimore,-76.6122,39.2904,1910,1931,accurate,accurate,"accurate",184
-2141622,United States,Baltimore,-76.6122,39.2904,1931,2021,accurate,accurate,"accurate",185
-2141620,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",186
-2141620,Italy,Florence,11.2463,43.7793,1897,1910,accurate,accurate,"accurate",187
-2141620,United States,Baltimore,-76.6122,39.2904,1910,1931,accurate,accurate,"accurate",188
-2141620,United States,Baltimore,-76.6122,39.2904,1931,2021,accurate,accurate,"accurate",189
-2141625,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",190
-2141625,Italy,Naples,14.2681,40.8522,1736,1950,accurate,accurate,"approx",191
-2141627,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",192
-2141627,NoInfo,Europe,9.14062,48.691,1481,1600,accurate,accurate,"approx",193
-2141627,NoInfo,NoInfo,9.14062,48.691,1601,1700,NoInfo,accurate,"approx",194
-2141627,Germany,Munich,11.5755,48.1374,1880,1979,accurate,accurate,"accurate",195
-2141627,Vatican City,NoInfo,12.4541,41.9027,1979,2021,approx,accurate,"accurate",196
-2141433,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",197
-2141433,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",198
-2141433,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",199
-2141433,NoInfo,NoInfo,12.8333,42.8333,1501,1600,NoInfo,accurate,"approx",200
-2141433,Italy,Rome,12.5113,41.8919,1501,1923,accurate,NoInfo,"accurate",201
-2141433,Vatican City,Vatican City,12.4533,41.9022,1923,2021,accurate,accurate,"accurate",202
-2141428,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",203
-2141428,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",204
-2141428,Vatican City,NoInfo,12.4541,41.9027,1877,1921,approx,accurate,"accurate",205
-2141428,Vatican City,Vatican City,12.4533,41.9022,1877,2021,accurate,NoInfo,"accurate",206
-2140745,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",207
-2140745,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",208
-2140745,NoInfo,NoInfo,12.8333,42.8333,1801,1900,NoInfo,accurate,"approx",209
-2140745,Italy,Naples,14.2681,40.8522,1804,2021,accurate,accurate,"accurate",210
-2141554,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",211
-2141554,Italy,Italy,12.8333,42.8333,1481,1500,accurate,accurate,"approx",212
-2141554,Italy,Florence,11.2463,43.7793,1501,1600,accurate,accurate,"approx",213
-2141554,United Kingdom,Oswestry,-3.05497,52.8619,1806,1843,accurate,accurate,"accurate",214
-2141554,United States,Princeton,-74.659,40.3487,1900,1955,accurate,approx,"accurate",215
-2141554,United States,Princeton,-74.659,40.3487,1955,2021,accurate,accurate,"accurate",216
-2141630,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",217
-2141630,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",218
-2141630,United States,Brunswick,-69.9653,43.9145,1870,1915,accurate,accurate,"accurate",219
-2141630,United States,Brunswick,-69.9653,43.9145,1970,2021,accurate,accurate,"accurate",220
-2140711,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",221
-2140711,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",222
-2140711,Italy,Florence,11.2463,43.7793,1826,1834,accurate,accurate,"accurate",223
-2140711,Italy,Florence,11.2463,43.7793,1850,2021,accurate,approx,"accurate",224
-2141037,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",225
-2141037,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",226
-2141037,Italy,Florence,11.2463,43.7793,1849,1874,accurate,accurate,"accurate",227
-2141037,Italy,Florence,11.2463,43.7793,1874,1905,accurate,accurate,"accurate",228
-2141037,Italy,Florence,11.2463,43.7793,1907,2021,accurate,accurate,"accurate",229
-2126770,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",230
-2126770,NoInfo,NoInfo,11.2463,43.7793,1481,1500,NoInfo,accurate,"approx",231
-2126770,NoInfo,NoInfo,11.2463,43.7793,1481,1500,NoInfo,accurate,"approx",232
-2126770,NoInfo,NoInfo,11.2463,43.7793,1481,1500,NoInfo,accurate,"approx",233
-2126770,NoInfo,NoInfo,11.2463,43.7793,1500,1560,NoInfo,approx,"accurate",234
-2126770,United Kingdom,London,-0.12574,51.5085,1791,1791,accurate,accurate,"accurate",235
-2126770,United Kingdom,Thenford,-1.24167,52.0769,1791,1816,accurate,accurate,"accurate",236
-2126770,United Kingdom,London,-0.12574,51.5085,1816,1824,accurate,accurate,"accurate",237
-2126770,United Kingdom,Thenford,-1.24167,52.0769,1824,1846,accurate,accurate,"accurate",238
-2126770,United Kingdom,Thenford,-1.24167,52.0769,1846,1886,accurate,accurate,"accurate",239
-2126770,United States,New York,-74.006,40.7143,1886,1886,accurate,accurate,"accurate",240
-2126770,Italy,NoInfo,12.8333,42.8333,1886,1904,approx,accurate,"accurate",241
-2126770,Italy,NoInfo,12.8333,42.8333,1904,1905,approx,accurate,"accurate",242
-2126770,Italy,Ravenna,12.2012,44.4134,1905,2021,accurate,accurate,"accurate",243
-2140741,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",244
-2140741,Italy,Florence,11.2463,43.7793,1562,1562,accurate,accurate,"accurate",245
-2140741,NoInfo,NoInfo,11.2463,43.7793,1701,1800,NoInfo,accurate,"approx",246
-2140741,Italy,Naples,14.2681,40.8522,1804,2021,accurate,accurate,"accurate",247
-2141490,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",248
-2141490,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",249
-2141490,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,NoInfo,"NoInfo",250
-2141490,Vatican City,NoInfo,12.4541,41.9027,1501,1930,approx,NoInfo,"accurate",251
-2141490,United States,Washington,-77.0364,38.8951,1932,2021,accurate,accurate,"accurate",252
-2141263,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",253
-2141263,Italy,NoInfo,12.8333,42.8333,1481,1700,approx,accurate,"approx",254
-2141263,United Kingdom,London,-0.12574,51.5085,1810,1843,accurate,accurate,"accurate",255
-2141263,United Kingdom,NoInfo,-2.69531,54.7584,1845,1845,approx,accurate,"accurate",256
-2141263,United Kingdom,NoInfo,-2.69531,54.7584,1845,1868,approx,accurate,"accurate",257
-2141263,United Kingdom,London,-0.12574,51.5085,1868,1875,accurate,accurate,"accurate",258
-2141263,United States,Boston,-71.0598,42.3584,1875,1919,accurate,accurate,"accurate",259
-2141263,United States,Cambridge,-71.1056,42.3751,1919,2021,accurate,accurate,"accurate",260
-2141270,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",261
-2141270,NoInfo,NoInfo,11.2463,43.7793,1701,1800,NoInfo,accurate,"approx",262
-2141270,United States,Cincinnati,-84.5144,39.1271,1820,1890,accurate,accurate,"accurate",263
-2141270,United States,Chicago,-87.65,41.85,1890,2021,accurate,accurate,"accurate",264
-2140994,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",265
-2140994,France,Paris,2.3488,48.8534,1731,1788,accurate,accurate,"accurate",266
-2140994,Germany,Hamburg,9.99302,53.5507,1731,1863,accurate,NoInfo,"accurate",267
-2140994,Germany,Hamburg,9.99302,53.5507,1863,2021,accurate,accurate,"accurate",268
-2141186,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",269
-2141186,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",270
-2141186,Italy,Florence,11.2463,43.7793,1481,1500,accurate,accurate,"NoInfo",271
-2141186,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",272
-2141186,United Kingdom,Althorp,-1.00095,52.2811,1807,1834,accurate,accurate,"accurate",273
-2141186,NoInfo,,-1.00095,52.2811,1835,1892,accurate,accurate,"accurate",274
-2141186,United Kingdom,Manchester,-2.23743,53.4809,1892,1892,accurate,accurate,"accurate",275
-2141186,United Kingdom,Manchester,-2.23743,53.4809,1892,2021,accurate,accurate,"accurate",276
-2141489,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",277
-2141489,United Kingdom,London,-0.12574,51.5085,1860,1927,accurate,accurate,"accurate",278
-2141489,United States,New York,-74.006,40.7143,1860,1935,accurate,NoInfo,"accurate",279
-2141489,United States,Jenkintown,-75.1252,40.0959,1935,1943,accurate,accurate,"accurate",280
-2141489,United States,Washington,-77.0364,38.8951,1943,2021,accurate,accurate,"accurate",281
-2140943,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",282
-2140943,Belgium,Liège,5.56749,50.6337,1817,2021,accurate,accurate,"accurate",283
-2140632,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",284
-2140632,Italy,NoInfo,12.8333,42.8333,1500,1481,approx,approx,"NoInfo",285
-2140632,Italy,Rome,12.5113,41.8919,1733,1783,accurate,accurate,"accurate",286
-2140632,France,Paris,2.3488,48.8534,1788,1792,accurate,accurate,"accurate",287
-2140632,France,Paris,2.3488,48.8534,1792,2021,accurate,accurate,"accurate",288
-2141738,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",289
-2141738,France,Paris,2.3488,48.8534,1481,1838,accurate,NoInfo,"accurate",290
-2141738,France,Paris,2.3488,48.8534,1838,1838,accurate,accurate,"accurate",291
-2141738,France,Paris,2.3488,48.8534,1838,2021,accurate,accurate,"accurate",292
-2141737,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",293
-2141737,France,Paris,2.3488,48.8534,1481,1784,accurate,NoInfo,"accurate",294
-2141737,France,Paris,2.3488,48.8534,1784,2021,accurate,accurate,"accurate",295
-2141741,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",296
-2001008,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",297
-2001008,United Kingdom,London,-0.12574,51.5085,1755,1846,accurate,accurate,"accurate",298
-2001008,United Kingdom,London,-0.12574,51.5085,1847,2021,accurate,accurate,"accurate",299
-2141599,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",300
-2141599,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",301
-2141599,Germany,Berlin,13.4105,52.5244,1800,1846,accurate,approx,"accurate",302
-2141599,Germany,Berlin,13.4105,52.5244,1850,2021,accurate,approx,"accurate",303
-2141629,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",304
-2141629,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",305
-2141629,Germany,Berlin,13.4105,52.5244,1880,1904,accurate,accurate,"accurate",306
-2141629,Germany,Berlin,13.4105,52.5244,1906,2021,accurate,accurate,"accurate",307
-2141643,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",308
-2141643,NoInfo,NoInfo,11.2463,43.7793,1833,1861,NoInfo,accurate,"accurate",309
-2141643,Switzerland,Cologny,6.18041,46.2167,1951,2021,accurate,accurate,"accurate",310
-2140783,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",311
-2140783,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",312
-2140783,Italy,Siena,11.3306,43.3182,1758,2021,accurate,accurate,"accurate",313
-2141600,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",314
-2141600,Germany,Dresden,13.7383,51.0509,1853,1865,accurate,accurate,"accurate",315
-2141600,Germany,Dresden,13.7383,51.0509,1853,2021,accurate,accurate,"accurate",316
-2141601,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",317
-2141601,Germany,Dresden,13.7383,51.0509,1481,2021,accurate,NoInfo,"accurate",318
-2140795,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",319
-2140795,Italy,NoInfo,12.8333,42.8333,1501,1700,approx,accurate,"approx",320
-2140795,Italy,Trivignano,12.1869,45.532,1701,1800,accurate,accurate,"approx",321
-2140795,Italy,Treviso,12.2416,45.6667,1737,1810,accurate,accurate,"accurate",322
-2140795,Italy,Treviso,12.2416,45.6667,1810,2021,accurate,accurate,"accurate",323
-2140630,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",324
-2140630,Italy,Venice,12.3309,45.4389,1481,1519,accurate,accurate,"accurate",325
-2140630,Italy,Venice,12.3309,45.4389,1519,1547,accurate,accurate,"accurate",326
-2140630,France,Paris,2.3488,48.8534,1801,2021,accurate,accurate,"accurate",327
-2141192,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",328
-2141192,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",329
-2141192,Italy,Italy,12.8333,42.8333,1550,1650,accurate,approx,"approx",330
-2141192,United States,Boston,-71.0598,42.3584,1939,1939,accurate,accurate,"accurate",331
-2141192,United States,Cambridge,-71.1056,42.3751,1939,1943,accurate,accurate,"accurate",332
-2141192,United States,Cambridge,-71.1056,42.3751,1943,1943,accurate,accurate,"accurate",333
-2141192,United States,Boston,-71.0598,42.3584,1943,2021,accurate,accurate,"accurate",334
-2140648,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",335
-2140648,Italy,Florence,11.2463,43.7793,1481,1501,accurate,accurate,"accurate",336
-2140648,NoInfo,NoInfo,11.2463,43.7793,1500,1700,NoInfo,approx,"approx",337
-2140648,Italy,Rome,12.5113,41.8919,1717,1799,accurate,accurate,"accurate",338
-2140648,France,Paris,2.3488,48.8534,1717,2021,accurate,NoInfo,"accurate",339
-2141739,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",340
-2141739,France,Marseille,5.38107,43.297,1766,1778,accurate,accurate,"accurate",341
-2141739,France,Paris,2.3488,48.8534,1781,2021,accurate,accurate,"accurate",342
-2141717,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",343
-2141717,Austria,Vienna,16.3721,48.2085,1776,2021,accurate,accurate,"accurate",344
-2141004,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",345
-2141004,France,Besançon,6.01815,47.2488,1753,1826,accurate,accurate,"accurate",346
-2141004,France,Besançon,6.01815,47.2488,1826,2021,accurate,accurate,"accurate",347
-2144949,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",348
-2144949,Italy,NoInfo,12.8333,42.8333,1550,1650,approx,approx,"approx",349
-2144949,France,NoInfo,2,46,1908,1908,approx,accurate,"accurate",350
-2144949,United States,New York,-74.006,40.7143,1908,1944,accurate,accurate,"accurate",351
-2144949,United States,New York,-74.006,40.7143,1922,2021,accurate,accurate,"accurate",352
-2141557,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",353
-2141557,Italy,Florence,11.2463,43.7793,1695,1758,accurate,accurate,"accurate",354
-2141557,Italy,Florence,11.2463,43.7793,1749,1803,accurate,accurate,"accurate",355
-2141557,NoInfo,NoInfo,11.2463,43.7793,1801,1900,NoInfo,accurate,"approx",356
-2141557,United Kingdom,Sudbury,0.73117,52.0389,1825,1866,accurate,accurate,"accurate",357
-2141557,United Kingdom,London,-0.12574,51.5085,1866,1919,accurate,accurate,"accurate",358
-2141557,United Kingdom,Sonning,-0.91212,51.4741,1875,1937,accurate,accurate,"accurate",359
-2141557,United States,Middletown,-72.6507,41.5623,1875,2021,accurate,NoInfo,"accurate",360
-2144952,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",361
-2144952,France,Paris,2.3488,48.8534,1844,1884,accurate,accurate,"accurate",362
-2144952,Italy,Rome,12.5113,41.8919,2007,1884,accurate,accurate,"NoInfo",363
-2144952,Italy,Milan,9.18951,45.4643,2007,2021,accurate,accurate,"accurate",364
-2141558,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",365
-2141558,United States,New Haven,-72.9282,41.3082,1963,2021,accurate,accurate,"accurate",366
-2141439,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",367
-2141439,United States,Ithaca,-76.4966,42.4406,1865,2021,accurate,accurate,"accurate",368
-2141267,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",369
-2141267,United States,Claremont,-117.72,34.0967,1927,2021,accurate,accurate,"accurate",370
-2141440,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",371
-2141440,United States,Bloomington,-86.5264,39.1653,1960,2021,accurate,accurate,"accurate",372
-2001009,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",373
-2001009,Italy,NoInfo,12.8333,42.8333,1475,1525,approx,accurate,"accurate",374
-2001009,Italy,NoInfo,12.8333,42.8333,1750,1825,approx,approx,"accurate",375
-2001009,United Kingdom,London,-0.12574,51.5085,1842,2021,accurate,accurate,"accurate",376
-2140856,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",377
-2140856,Italy,Florence,11.2463,43.7793,1550,1605,accurate,approx,"accurate",378
-2140856,United Kingdom,London,-0.12574,51.5085,1650,1757,accurate,approx,"accurate",379
-2140856,United Kingdom,London,-0.12574,51.5085,1757,2021,accurate,accurate,"accurate",380
-2140784,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",381
-2140784,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",382
-2140784,Italy,Florence,11.2463,43.7793,1614,1500,accurate,accurate,"NoInfo",383
-2140784,Italy,Siena,11.3306,43.3182,1758,2021,accurate,accurate,"accurate",384
-2142781,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",385
-2142781,Italy,Florence,11.2463,43.7793,1812,1829,accurate,accurate,"accurate",386
-2142781,Germany,Dresden,13.7383,51.0509,1840,1920,accurate,accurate,"accurate",387
-2142781,Germany,Dresden,13.7383,51.0509,1920,1938,accurate,accurate,"accurate",388
-2142781,Germany,Dresden,13.7383,51.0509,1938,1945,accurate,accurate,"accurate",389
-2142781,Russia,Moscow,37.6156,55.7522,1945,2021,accurate,accurate,"accurate",390
-2141086,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",391
-2141086,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",392
-2141086,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",393
-2141086,Italy,NoInfo,12.8333,42.8333,1601,1700,approx,accurate,"approx",394
-2141086,Germany,Munich,11.5755,48.1374,1800,1830,accurate,approx,"accurate",395
-2141086,Italy,Novara,8.62118,45.4469,1800,1896,accurate,NoInfo,"accurate",396
-2141086,Italy,Novara,8.62118,45.4469,1896,2021,accurate,accurate,"accurate",397
-2141148,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",398
-2141148,NoInfo,Europe,9.14062,48.691,1501,1600,accurate,accurate,"approx",399
-2141148,Japan,NoInfo,139.753,35.6854,1701,1800,approx,accurate,"approx",400
-2141148,Japan,NoInfo,139.753,35.6854,1701,1800,approx,accurate,"approx",401
-2141148,United Kingdom,Edensor,-1.62576,53.2266,1811,1844,accurate,accurate,"accurate",402
-2141148,United Kingdom,Chatsworth House,-1.6,53.2167,1844,2021,accurate,accurate,"accurate",403
-2141598,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",404
-2141598,Germany,Munich,11.5755,48.1374,1481,2021,accurate,NoInfo,"accurate",405
-2141603,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",406
-2141603,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",407
-2141603,Japan,NoInfo,139.753,35.6854,1701,1800,approx,accurate,"approx",408
-2141603,NoInfo,NoInfo,139.753,35.6854,1950,1980,NoInfo,approx,"accurate",409
-2141603,Italy,Turin,7.68682,45.0705,1950,2013,accurate,NoInfo,"accurate",410
-2141603,Switzerland,Geneva,6.14569,46.2022,2013,2021,accurate,accurate,"accurate",411
-2141143,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",412
-2141143,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",413
-2141143,United Kingdom,NoInfo,-2.69531,54.7584,1813,1857,approx,accurate,"accurate",414
-2141143,United Kingdom,London,-0.12574,51.5085,1857,1857,accurate,accurate,"accurate",415
-2141143,United Kingdom,London,-0.12574,51.5085,1860,1860,accurate,accurate,"accurate",416
-2141143,United Kingdom,London,-0.12574,51.5085,1862,1862,accurate,accurate,"accurate",417
-2141143,United Kingdom,Crowan,-5.32303,50.1678,1862,1863,accurate,accurate,"accurate",418
-2141143,United Kingdom,Cambridge,0.11667,52.2,1863,2021,accurate,accurate,"accurate",419
-2140676,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",420
-2140676,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",421
-2140676,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",422
-2140676,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",423
-2140676,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",424
-2140676,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",425
-2140676,Italy,Florence,11.2463,43.7793,1510,1537,accurate,accurate,"accurate",426
-2140676,Italy,Florence,11.2463,43.7793,1540,1599,accurate,accurate,"accurate",427
-2140676,Italy,Florence,11.2463,43.7793,1593,1647,accurate,accurate,"accurate",428
-2140676,Italy,Florence,11.2463,43.7793,1620,1620,accurate,accurate,"accurate",429
-2140676,France,Nancy,6.18496,48.6844,1740,1799,accurate,accurate,"accurate",430
-2140676,Germany,Ludwigsburg,9.19161,48.8973,1740,1799,accurate,NoInfo,"NoInfo",431
-2140676,Germany,Stuttgart,9.1775,48.7767,1740,2021,accurate,NoInfo,"accurate",432
-2142772,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",433
-2142772,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",434
-2142772,Italy,NoInfo,12.8333,42.8333,1668,1668,approx,accurate,"accurate",435
-2142772,Italy,Florence,11.2463,43.7793,1701,1800,accurate,accurate,"approx",436
-2142772,Japan,NoInfo,139.753,35.6854,1701,1800,approx,accurate,"approx",437
-2142772,Brazil,Rio de Janeiro,-43.1822,-22.9064,1849,1923,accurate,accurate,"accurate",438
-2142772,Brazil,Rio de Janeiro,-43.1822,-22.9064,1928,2021,accurate,accurate,"accurate",439
-2001010,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",440
-2001010,United Kingdom,NoInfo,-2.69531,54.7584,1700,1800,approx,approx,"approx",441
-2001010,United Kingdom,London,-0.12574,51.5085,1790,1799,accurate,accurate,"accurate",442
-2001010,United Kingdom,London,-0.12574,51.5085,1799,2021,accurate,accurate,"accurate",443
-2142777,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",444
-2142777,Germany,Dresden,13.7383,51.0509,1556,1945,accurate,accurate,"accurate",445
-2142777,Russia,Moscow,37.6156,55.7522,1945,2021,accurate,accurate,"accurate",446
-559810,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",447
-559810,Italy,NoInfo,12.8333,42.8333,1481,1700,approx,accurate,"approx",448
-559810,United Kingdom,Kew,-0.28749,51.4817,1728,1805,accurate,accurate,"accurate",449
-559810,United Kingdom,London,-0.12574,51.5085,1805,1835,accurate,accurate,"accurate",450
-559810,United Kingdom,NoInfo,-2.69531,54.7584,1844,1910,approx,accurate,"accurate",451
-559810,United Kingdom,Cambridge,0.11667,52.2,1910,2021,accurate,accurate,"accurate",452
-2140828,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",453
-2140828,NoInfo,NoInfo,11.2463,43.7793,1481,1481,NoInfo,NoInfo,"NoInfo",454
-2140828,Germany,Dresden,13.7383,51.0509,1819,1886,accurate,accurate,"accurate",455
-2140828,Germany,Leipzig,12.3713,51.3396,1886,1945,accurate,accurate,"accurate",456
-2140828,Russia,Moscow,37.6156,55.7522,1945,2021,accurate,accurate,"accurate",457
-2140829,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",458
-2140829,Russia,St Petersburg,30.3141,59.9386,1820,1869,accurate,accurate,"accurate",459
-2140829,Russia,Moscow,37.6156,55.7522,1869,1924,accurate,accurate,"accurate",460
-2140829,Russia,Moscow,37.6156,55.7522,1924,2021,accurate,accurate,"accurate",461
-2141491,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",462
-2141491,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",463
-2141491,Italy,Chiusa di Pesio,7.67431,44.3259,1650,1650,accurate,approx,"approx",464
-2141491,United Kingdom,London,-0.12574,51.5085,1841,1883,accurate,accurate,"accurate",465
-2141491,United States,Oakland,-122.271,37.8044,1877,1948,accurate,accurate,"accurate",466
-2141491,United States,Oakland,-122.271,37.8044,1948,2021,accurate,accurate,"accurate",467
-2142782,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",468
-2142782,United Kingdom,London,-0.12574,51.5085,1835,1845,accurate,accurate,"accurate",469
-2142782,United Kingdom,London,-0.12574,51.5085,1845,2021,accurate,accurate,"accurate",470
-2141147,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",471
-2141147,Italy,Florence,11.2463,43.7793,1554,1571,accurate,accurate,"accurate",472
-2141147,United Kingdom,London,-0.12574,51.5085,1645,1645,accurate,accurate,"accurate",473
-2141147,United Kingdom,Cambridge,0.11667,52.2,1645,2021,accurate,NoInfo,"accurate",474
-2140991,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",475
-2140991,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",476
-2140991,Italy,Naples,14.2681,40.8522,1481,1600,accurate,NoInfo,"NoInfo",477
-2140991,United Kingdom,NoInfo,-2.69531,54.7584,1781,1833,approx,accurate,"accurate",478
-2140991,France,Tours,0.70398,47.3948,1781,1972,accurate,NoInfo,"accurate",479
-2140991,France,Tours,0.70398,47.3948,1972,2021,accurate,accurate,"accurate",480
-2138497,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",481
-2138497,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",482
-2138497,Netherlands,Gemeente Den Haag,4.28635,52.0687,1824,1848,accurate,accurate,"accurate",483
-2138497,Netherlands,Gemeente Den Haag,4.28635,52.0687,1824,2021,accurate,NoInfo,"accurate",484
-2129250,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",485
-2129250,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",486
-2129250,United Kingdom,NoInfo,-2.69531,54.7584,1800,1848,approx,approx,"accurate",487
-2129250,United Kingdom,London,-0.12574,51.5085,1849,1878,accurate,accurate,"accurate",488
-2129250,United Kingdom,Fosbury,-1.54255,51.3203,1878,1910,accurate,accurate,"accurate",489
-2129250,United Kingdom,London,-0.12574,51.5085,1912,1912,accurate,accurate,"accurate",490
-2129250,United Kingdom,London,-0.12574,51.5085,1912,1912,accurate,accurate,"NoInfo",491
-2129250,United States,San Marino,-118.106,34.1214,1918,1927,accurate,accurate,"accurate",492
-2129250,United States,San Marino,-118.106,34.1214,1927,2021,accurate,accurate,"accurate",493
-2141115,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",494
-2141115,NoInfo,NoInfo,11.2463,43.7793,1481,1481,NoInfo,NoInfo,"NoInfo",495
-2141115,Ukraine,Lviv,24.0232,49.8383,1481,1853,accurate,NoInfo,"accurate",496
-2141115,Ukraine,Lviv,24.0232,49.8383,1853,1946,accurate,accurate,"accurate",497
-2141115,Poland,Wroclaw,17.0333,51.1,1946,2021,accurate,accurate,"accurate",498
-2013774,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",499
-2013774,NoInfo,NoInfo,11.2463,43.7793,1600,1800,NoInfo,approx,"approx",500
-2013774,NoInfo,NoInfo,11.2463,43.7793,1600,1700,NoInfo,approx,"approx",501
-2013774,NoInfo,NoInfo,11.2463,43.7793,1800,1900,NoInfo,approx,"approx",502
-2013774,NoInfo,NoInfo,11.2463,43.7793,1481,1600,NoInfo,accurate,"approx",503
-2013774,United Kingdom,London,-0.12574,51.5085,1800,1820,accurate,approx,"accurate",504
-2013774,United Kingdom,London,-0.12574,51.5085,1820,1853,accurate,accurate,"accurate",505
-2013774,United Kingdom,London,-0.12574,51.5085,1853,1882,accurate,accurate,"accurate",506
-2013774,United States,Latrobe,-79.3795,40.3212,1960,1999,accurate,accurate,"accurate",507
-2013774,United States,New York,-74.006,40.7143,2000,2000,accurate,approx,"approx",508
-2013774,United Kingdom,London,-0.12574,51.5085,2015,2015,accurate,accurate,"accurate",509
-2013774,Greece,Athens,23.7278,37.9838,2015,2015,accurate,accurate,"accurate",510
-2013774,Greece,Athens,23.7278,37.9838,2015,2021,accurate,accurate,"accurate",511
-2016450,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",512
-2016450,Slovenia,Koper,13.7294,45.5469,1481,1488,accurate,accurate,"accurate",513
-2016450,Italy,NoInfo,12.8333,42.8333,1488,1525,approx,accurate,"accurate",514
-2016450,Italy,Florence,11.2463,43.7793,1545,1625,accurate,accurate,"accurate",515
-2016450,Italy,Venice,12.3327,45.4371,1690,1750,accurate,accurate,"approx",516
-2016450,Italy,Venice,12.3327,45.4371,1750,1810,accurate,approx,"accurate",517
-2016450,Italy,Venice,12.3327,45.4371,1810,2021,accurate,accurate,"accurate",518
-2128758,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",519
-2128758,Italy,Italy,12.8333,42.8333,1481,1500,accurate,accurate,"approx",520
-2128758,Italy,Italy,12.8333,42.8333,1650,1750,accurate,approx,"approx",521
-2128758,United States,New York,-74.006,40.7143,1901,1907,accurate,accurate,"accurate",522
-2128758,United States,New York,-74.006,40.7143,1907,1907,accurate,accurate,"NoInfo",523
-2128758,United States,Wellesley,-71.2926,42.2965,1907,2021,accurate,accurate,"accurate",524
-2140739,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",525
-2140739,Italy,NoInfo,12.8333,42.8333,1601,1700,approx,accurate,"approx",526
-2140739,NoInfo,NoInfo,12.8333,42.8333,1801,1900,NoInfo,accurate,"approx",527
-2140739,Italy,Modena,10.9254,44.6478,1900,1970,accurate,approx,"accurate",528
-2140739,Italy,Modena,10.9254,44.6478,1970,2021,accurate,accurate,"accurate",529
-2141240,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",530
-2141240,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",531
-2141240,NoInfo,NoInfo,12.8333,42.8333,1700,1800,NoInfo,approx,"approx",532
-2141240,United Kingdom,Glasgow,-4.25763,55.8652,1700,1848,accurate,NoInfo,"accurate",533
-2141240,United Kingdom,Glasgow,-4.25763,55.8652,1848,1848,accurate,accurate,"NoInfo",534
-2141240,United Kingdom,Glasgow,-4.25763,55.8652,1874,1848,accurate,accurate,"NoInfo",535
-2141240,United Kingdom,Glasgow,-4.25763,55.8652,1874,2021,accurate,accurate,"accurate",536
-2140723,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",537
-2140723,Italy,NoInfo,12.8333,42.8333,1501,1700,approx,accurate,"approx",538
-2140723,Italy,Genoa,8.94439,44.4048,1852,1935,accurate,accurate,"accurate",539
-2140723,Italy,Genoa,8.94439,44.4048,1900,2021,accurate,approx,"accurate",540
-2140988,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",541
-2140988,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",542
-2140988,France,Marseille,5.38107,43.297,1840,1886,accurate,accurate,"accurate",543
-2140988,France,Paris,2.3488,48.8534,1902,2021,accurate,accurate,"accurate",544
-2140750,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",545
-2140750,Italy,Naples,14.2681,40.8522,1812,1815,accurate,accurate,"accurate",546
-2140750,Italy,Naples,14.2681,40.8522,1816,2021,accurate,accurate,"accurate",547
-2140752,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",548
-2140752,Italy,NoInfo,12.8333,42.8333,1481,1800,approx,accurate,"approx",549
-2140752,Italy,Pisa,10.4036,43.7085,1481,1800,accurate,NoInfo,"NoInfo",550
-2140752,Italy,Pisa,10.4036,43.7085,1742,2021,accurate,accurate,"accurate",551
-2140760,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",552
-2140760,Italy,Poppi,11.7664,43.7212,1745,1825,accurate,accurate,"accurate",553
-2140760,Italy,Poppi,11.7664,43.7212,1825,2021,accurate,accurate,"accurate",554
-2140687,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",555
-2140687,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",556
-2140687,Italy,Bologna,11.4333,44.4667,1712,2021,accurate,accurate,"accurate",557
-2117472,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",558
-2117472,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",559
-2117472,Austria,Vienna,16.3717,48.2082,1807,2021,accurate,accurate,"accurate",560
-2141109,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",561
-2141109,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",562
-2141109,Italy,Pavia,9.15917,45.1921,1754,1835,accurate,accurate,"accurate",563
-2141109,Italy,Pavia,9.15917,45.1921,1835,2021,accurate,accurate,"accurate",564
-2141099,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",565
-2141099,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",566
-2141099,Italy,Florence,11.2463,43.7793,1750,1791,accurate,approx,"accurate",567
-2141099,Italy,Florence,11.2463,43.7793,1791,1803,accurate,accurate,"accurate",568
-2141099,Italy,Verona,10.9844,45.4299,1791,1808,accurate,accurate,"accurate",569
-2141099,Italy,Verona,10.9844,45.4299,1821,2021,accurate,accurate,"accurate",570
-2141102,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",571
-2141102,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",572
-2141102,NoInfo,NoInfo,12.8333,42.8333,1501,1600,NoInfo,accurate,"approx",573
-2141102,Latvia,Iecava,24.2076,56.5977,1834,1908,accurate,accurate,"accurate",574
-2141102,Latvia,Riga,24.1059,56.946,1919,2021,accurate,accurate,"accurate",575
-2141016,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",576
-2141016,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",577
-2141016,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",578
-2141016,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",579
-2141016,Italy,Bibbiena,11.8147,43.6988,1481,1985,accurate,accurate,"accurate",580
-2141016,Italy,Figline Valdarno,11.4719,43.6199,1926,2021,accurate,accurate,"accurate",581
-2141110,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",582
-2141110,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",583
-2141110,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",584
-2141110,Italy,NoInfo,12.8333,42.8333,1800,2021,approx,approx,"accurate",585
-2141427,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",586
-2141427,Italy,NoInfo,12.8333,42.8333,1601,1700,approx,accurate,"approx",587
-2141427,Vatican City,Vatican City,12.4533,41.9022,1700,2021,accurate,approx,"accurate",588
-2141456,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",589
-2141456,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",590
-2141456,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",591
-2141456,NoInfo,NoInfo,12.8333,42.8333,1719,1720,NoInfo,accurate,"accurate",592
-2141456,Italy,Rome,12.5113,41.8919,1913,2021,accurate,accurate,"accurate",593
-2140731,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",594
-2140731,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",595
-2140731,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",596
-2140731,Italy,Savona,8.47715,44.3091,1647,1647,accurate,accurate,"accurate",597
-2140731,Italy,Lucca,10.5045,43.8437,1794,2021,accurate,accurate,"accurate",598
-2141434,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",599
-2141434,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",600
-2141434,Italy,San Casciano in Val di Pesa,11.1849,43.6598,1481,1500,accurate,accurate,"NoInfo",601
-2141434,Italy,NoInfo,12.8333,42.8333,1601,1700,approx,accurate,"approx",602
-2141434,Italy,NoInfo,12.8333,42.8333,1501,1700,approx,accurate,"approx",603
-2141434,Italy,Rome,12.5113,41.8919,1722,1746,accurate,accurate,"accurate",604
-2141434,Vatican City,Vatican City,12.4533,41.9022,1746,2021,accurate,accurate,"accurate",605
-2141204,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",606
-2141204,Italy,Florence,11.2463,43.7793,1481,1503,accurate,accurate,"accurate",607
-2141204,NoInfo,Europe,9.14062,48.691,1501,1600,accurate,accurate,"approx",608
-2141204,Italy,Florence,11.2463,43.7793,1728,1728,accurate,accurate,"accurate",609
-2141204,Italy,Bologna,11.3387,44.4938,1871,1871,accurate,accurate,"accurate",610
-2141204,United States,Cambridge,-71.1056,42.3751,1871,1905,accurate,accurate,"accurate",611
-2141204,United States,Cambridge,-71.1056,42.3751,1905,2021,accurate,accurate,"accurate",612
-2141492,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",613
-2141492,Italy,Naples,14.2681,40.8522,1747,1825,accurate,accurate,"accurate",614
-2141492,United Kingdom,Althorp,-1.00095,52.2811,1819,1834,accurate,accurate,"accurate",615
-2141492,United States,New York,-74.006,40.7143,1855,1912,accurate,accurate,"accurate",616
-2141492,United States,New York,-74.006,40.7143,1913,2021,accurate,accurate,"accurate",617
-2145052,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",618
-2145052,Italy,NoInfo,12.8333,42.8333,1500,1600,approx,approx,"approx",619
-2145052,Italy,Florence,11.2463,43.7793,1500,1600,accurate,approx,"approx",620
-2145052,United Kingdom,Narford,0.61667,52.6833,1714,1902,accurate,accurate,"accurate",621
-2145052,United Kingdom,London,-0.12574,51.5085,1902,1918,accurate,accurate,"accurate",622
-2145052,United States,Newport,-71.3128,41.4901,1919,1933,accurate,accurate,"accurate",623
-2145052,United States,New York,-74.006,40.7143,1934,1949,accurate,accurate,"accurate",624
-2145052,United States,New York,-74.006,40.7143,1953,1958,accurate,accurate,"accurate",625
-2145052,United States,New York,-74.006,40.7143,1958,1958,accurate,accurate,"accurate",626
-2145052,Germany,Schweinfurt,10.2218,50.0494,1958,1994,accurate,accurate,"accurate",627
-2141553,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",628
-2141553,Italy,Florence,11.2463,43.7793,1481,1550,accurate,accurate,"approx",629
-2141553,NoInfo,,11.2463,43.7793,1481,1550,accurate,accurate,"NoInfo",630
-2141553,United Kingdom,London,-0.12574,51.5085,1743,1815,accurate,accurate,"accurate",631
-2141553,United Kingdom,Althorp,-1.00095,52.2811,1815,1821,accurate,accurate,"accurate",632
-2141553,United Kingdom,London,-0.12574,51.5085,1821,1821,accurate,accurate,"accurate",633
-2141553,United Kingdom,Stowe,-1.01815,52.0313,1821,1839,accurate,accurate,"accurate",634
-2141553,United Kingdom,London,-0.12574,51.5085,1839,1849,accurate,accurate,"accurate",635
-2141553,United Kingdom,London,-0.12574,51.5085,1849,1884,accurate,accurate,"accurate",636
-2141553,United Kingdom,London,-0.12574,51.5085,1884,1884,accurate,accurate,"accurate",637
-2141553,NoInfo,,-0.12574,51.5085,1884,1891,accurate,accurate,"accurate",638
-2141553,United Kingdom,London,-0.12574,51.5085,1891,1891,accurate,accurate,"accurate",639
-2141553,Italy,Naples,14.2681,40.8522,1891,1894,accurate,accurate,"accurate",640
-2141553,United Kingdom,Skirling,-3.46807,55.6359,1894,1903,accurate,accurate,"accurate",641
-2141553,United States,New York,-74.006,40.7143,1903,1924,accurate,accurate,"accurate",642
-2141553,United States,New York,-74.006,40.7143,1924,2021,accurate,accurate,"accurate",643
-2141227,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",644
-2141227,United Kingdom,Queensferry,-3.39847,55.9909,1481,1889,accurate,NoInfo,"accurate",645
-2141227,United Kingdom,Oxford,-1.25596,51.7522,1889,2021,accurate,accurate,"accurate",646
-2140776,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",647
-2140776,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",648
-2140776,NoInfo,NoInfo,12.8333,42.8333,1481,1576,NoInfo,accurate,"accurate",649
-2140776,Italy,Rome,12.5113,41.8919,1601,2021,accurate,accurate,"accurate",650
-2141400,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",651
-2141400,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",652
-2141400,United Kingdom,London,-0.12574,51.5085,1674,1722,accurate,accurate,"accurate",653
-2141400,United Kingdom,Woodstock,-1.35132,51.8485,1749,1881,accurate,accurate,"accurate",654
-2141400,United States,New York,-74.006,40.7143,1870,1908,accurate,accurate,"accurate",655
-2141400,United States,New York,-74.006,40.7143,1912,1912,accurate,accurate,"accurate",656
-2141400,France,Paris,2.3488,48.8534,1958,1912,accurate,accurate,"NoInfo",657
-2141400,Japan,Tokyo,139.692,35.6895,1958,2008,accurate,NoInfo,"accurate",658
-2141400,Japan,Tokyo,139.692,35.6895,2008,2021,accurate,accurate,"accurate",659
-2140685,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",660
-2140685,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",661
-2140685,Italy,NoInfo,12.8333,42.8333,1579,1579,approx,accurate,"accurate",662
-2140685,Italy,NoInfo,12.8333,42.8333,1579,1579,approx,accurate,"accurate",663
-2140685,Italy,NoInfo,12.8333,42.8333,1591,1591,approx,accurate,"accurate",664
-2140685,Italy,Arezzo,11.8807,43.4628,1609,2021,accurate,accurate,"accurate",665
-2140732,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",666
-2140732,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",667
-2140732,Italy,Lucca,10.5045,43.8437,1886,2021,accurate,accurate,"accurate",668
-2141029,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",669
-2141029,Italy,NoInfo,12.8333,42.8333,1481,1550,approx,accurate,"approx",670
-2141029,Italy,Florence,11.2463,43.7793,1613,1613,accurate,accurate,"accurate",671
-2141029,NoInfo,,11.2463,43.7793,1690,1690,accurate,accurate,"accurate",672
-2141029,Italy,Florence,11.2463,43.7793,1690,1712,accurate,accurate,"accurate",673
-2141029,Italy,Ravenna,12.2012,44.4134,1970,2021,accurate,accurate,"accurate",674
-2141588,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",675
-2141588,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",676
-2141588,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",677
-2141588,NoInfo,NoInfo,12.8333,42.8333,1601,1700,NoInfo,accurate,"approx",678
-2141588,Germany,Dresden,13.7383,51.0509,1793,1865,accurate,accurate,"accurate",679
-2141588,Germany,Hanover,9.73322,52.3705,1831,1870,accurate,accurate,"accurate",680
-2141588,United Kingdom,East of England,0.50415,52.2407,1870,1870,accurate,accurate,"NoInfo",681
-2141588,Austria,Vienna,16.3721,48.2085,1853,1870,accurate,accurate,"NoInfo",682
-2141588,Belarus,Minsk,27.5667,53.9,1922,2021,accurate,accurate,"accurate",683
-2141168,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",684
-2141168,Italy,NoInfo,12.8333,42.8333,1500,1599,approx,approx,"accurate",685
-2141168,Italy,Turin,7.68682,45.0705,1720,2021,accurate,accurate,"accurate",686
-2140634,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",687
-2140634,NoInfo,NoInfo,11.2463,43.7793,1481,1700,NoInfo,accurate,"approx",688
-2140634,Italy,NoInfo,12.8333,42.8333,1690,1690,approx,accurate,"accurate",689
-2140634,France,Paris,2.3488,48.8534,1829,1906,accurate,accurate,"accurate",690
-2140634,France,Paris,2.3488,48.8534,1913,2021,accurate,accurate,"accurate",691
-2141251,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",692
-2141251,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",693
-2141251,NoInfo,NoInfo,12.8333,42.8333,1481,1600,NoInfo,NoInfo,"NoInfo",694
-2141251,United States,Cambridge,-71.1056,42.3751,1816,1871,accurate,accurate,"accurate",695
-2141251,NoInfo,NoInfo,-71.1056,42.3751,1896,2021,NoInfo,accurate,"accurate",696
-2140686,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",697
-2140686,Italy,Florence,11.2463,43.7793,1501,1600,accurate,accurate,"approx",698
-2140686,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",699
-2140686,Italy,Bologna,11.3387,44.4938,1775,1847,accurate,accurate,"accurate",700
-2140686,Italy,Bologna,11.4333,44.4667,1847,2021,accurate,accurate,"accurate",701
-2141596,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",702
-2141596,Italy,Florence,11.2463,43.7793,1582,1582,accurate,accurate,"accurate",703
-2141596,Italy,NoInfo,12.8333,42.8333,1601,1700,approx,accurate,"approx",704
-2141596,Italy,Milan,9.18951,45.4643,1801,1801,accurate,accurate,"accurate",705
-2141596,NoInfo,NoInfo,9.18951,45.4643,1850,1900,NoInfo,approx,"approx",706
-2141596,Germany,Mönchengladbach,6.44172,51.1854,1900,1943,accurate,approx,"accurate",707
-2141596,Germany,Cologne,6.95,50.9333,1964,2021,accurate,accurate,"accurate",708
-2140704,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",709
-2140704,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",710
-2140704,Italy,Florence,11.2463,43.7793,1528,1528,accurate,accurate,"accurate",711
-2140704,Italy,Florence,11.2463,43.7793,1528,1809,accurate,accurate,"accurate",712
-2140704,Italy,Florence,11.2463,43.7793,1809,1861,accurate,accurate,"accurate",713
-2140704,Italy,Florence,11.2463,43.7793,1861,2021,accurate,accurate,"accurate",714
-2141035,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",715
-2141035,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",716
-2141035,Italy,NoInfo,12.8333,42.8333,1501,1700,approx,accurate,"approx",717
-2141035,Italy,Prato,11.097,43.8805,1607,1607,accurate,accurate,"accurate",718
-2141035,Italy,Florence,11.2463,43.7793,1849,1874,accurate,accurate,"accurate",719
-2141035,Italy,Florence,11.2463,43.7793,1874,1905,accurate,accurate,"accurate",720
-2141035,Italy,Florence,11.2463,43.7793,1907,2021,accurate,accurate,"accurate",721
-2140738,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",722
-2140738,Italy,Florence,11.2463,43.7793,1521,1521,accurate,accurate,"accurate",723
-2140738,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",724
-2140738,Italy,Modena,10.9254,44.6478,1481,1829,accurate,NoInfo,"accurate",725
-2140738,Italy,Modena,10.9254,44.6478,1829,2021,accurate,accurate,"accurate",726
-2141048,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",727
-2141048,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",728
-2141048,Italy,Barga,10.4779,44.0731,1699,1699,accurate,accurate,"accurate",729
-2141048,Italy,Livorno,10.3261,43.5443,1700,1869,accurate,approx,"accurate",730
-2141048,Italy,Livorno,10.3261,43.5443,1869,2021,accurate,accurate,"accurate",731
-2140700,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",732
-2140700,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",733
-2140700,Italy,Florence,11.2463,43.7793,1481,1500,accurate,accurate,"approx",734
-2140700,Italy,Florence,11.2463,43.7793,1714,1861,accurate,accurate,"accurate",735
-2140700,Italy,Florence,11.2463,43.7793,1861,2021,accurate,accurate,"accurate",736
-2140703,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",737
-2140703,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",738
-2140703,Italy,Pisa,10.4036,43.7085,1500,1556,accurate,approx,"accurate",739
-2140703,Italy,Florence,11.2463,43.7793,1745,1801,accurate,accurate,"accurate",740
-2140703,Italy,Florence,11.2463,43.7793,1830,1830,accurate,accurate,"accurate",741
-2140703,Italy,Florence,11.2463,43.7793,1861,2021,accurate,accurate,"accurate",742
-2141082,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",743
-2141082,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",744
-2141082,Italy,Florence,11.2463,43.7793,1714,1861,accurate,accurate,"accurate",745
-2141082,United Kingdom,Edinburgh,-3.19648,55.9521,1807,1861,accurate,accurate,"NoInfo",746
-2141082,United Kingdom,Edinburgh,-3.19648,55.9521,1925,2021,accurate,accurate,"accurate",747
-2141097,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",748
-2141097,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",749
-2141097,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",750
-2141097,Italy,Pisa,10.4036,43.7085,1481,1550,accurate,accurate,"approx",751
-2141097,Italy,NoInfo,12.8333,42.8333,1601,1700,approx,accurate,"approx",752
-2141097,NoInfo,NoInfo,12.8333,42.8333,1750,1800,NoInfo,approx,"approx",753
-2141097,Germany,Frankfurt am Main,8.68417,50.1155,1812,1812,accurate,accurate,"accurate",754
-2141097,NoInfo,NoInfo,8.68417,50.1155,1812,1898,NoInfo,NoInfo,"accurate",755
-2141097,Italy,Trieste,13.7768,45.6495,1898,1920,accurate,accurate,"accurate",756
-2141097,Italy,Rome,12.5113,41.8919,1918,2021,accurate,accurate,"accurate",757
-2140725,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",758
-2140725,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",759
-2140725,NoInfo,NoInfo,12.8333,42.8333,1550,1600,NoInfo,approx,"approx",760
-2140725,Italy,Milan,9.18951,45.4643,1730,1789,accurate,accurate,"accurate",761
-2140725,Netherlands,Amsterdam,4.88969,52.374,1789,1789,accurate,accurate,"accurate",762
-2140725,Italy,Genoa,8.94439,44.4048,1789,1812,accurate,accurate,"accurate",763
-2140725,Italy,Genoa,8.94439,44.4048,1812,2021,accurate,accurate,"accurate",764
-2141098,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",765
-2141098,Italy,Florence,11.2463,43.7793,1501,1600,accurate,accurate,"approx",766
-2141098,Italy,Sassari,8.55552,40.7259,1800,1874,accurate,approx,"accurate",767
-2141098,Italy,Sassari,8.55552,40.7259,1875,2021,accurate,accurate,"accurate",768
-2140849,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",769
-2140849,NoInfo,NoInfo,11.2463,43.7793,1501,1700,NoInfo,accurate,"approx",770
-2140849,Japan,NoInfo,139.753,35.6854,1801,1900,approx,accurate,"approx",771
-2140849,Spain,Cambrils,1.05949,41.07,1900,1969,accurate,approx,"accurate",772
-2140849,Spain,Barcelona,2.15899,41.3888,1888,1958,accurate,accurate,"accurate",773
-2140849,Spain,Barcelona,2.15899,41.3888,1959,2021,accurate,accurate,"accurate",774
-2141338,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",775
-2141338,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",776
-2141338,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",777
-2141338,Italy,Palermo,13.3356,38.132,1481,1981,accurate,NoInfo,"accurate",778
-2141338,Italy,Palermo,13.3356,38.132,1981,2021,accurate,accurate,"accurate",779
-2140675,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",780
-2140675,Italy,NoInfo,12.8333,42.8333,1550,1792,approx,approx,"accurate",781
-2140675,Austria,Vienna,16.3721,48.2085,1792,1824,accurate,accurate,"accurate",782
-2140675,Germany,Munich,11.5755,48.1374,1806,2021,accurate,accurate,"accurate",783
-2140751,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",784
-2140751,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",785
-2140751,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",786
-2140751,NoInfo,NoInfo,12.8333,42.8333,1701,1900,NoInfo,accurate,"approx",787
-2140751,Italy,Parma,10.3262,44.7994,1761,2021,accurate,accurate,"accurate",788
-2140709,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",789
-2140709,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",790
-2140709,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",791
-2140709,Italy,NoInfo,12.8333,42.8333,1481,1600,approx,accurate,"approx",792
-2140709,Italy,Florence,11.2463,43.7793,1811,2021,accurate,accurate,"accurate",793
-2140855,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",794
-2140855,NoInfo,NoInfo,11.2463,43.7793,1501,1600,NoInfo,accurate,"approx",795
-2140855,Italy,Florence,11.2463,43.7793,1501,1600,accurate,accurate,"approx",796
-2140855,Japan,NoInfo,139.753,35.6854,1800,1900,approx,approx,"approx",797
-2140855,Sweden,Uppsala,17.6389,59.8588,1800,2021,accurate,NoInfo,"accurate",798
-2140770,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",799
-2140770,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",800
-2140770,Italy,NoInfo,12.8333,42.8333,1501,1600,approx,accurate,"approx",801
-2140770,Italy,Rome,12.5113,41.8919,1851,2021,accurate,accurate,"accurate",802
-2141191,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",803
-2141191,Italy,Venice,12.3327,45.4371,1696,1800,accurate,accurate,"approx",804
-2141191,United Kingdom,Oxford,-1.25596,51.7522,1803,2021,accurate,accurate,"accurate",805
-2141108,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",806
-2141108,Spain,NoInfo,-4,40,1481,1500,approx,accurate,"approx",807
-2141108,Spain,NoInfo,-4,40,1615,1615,approx,accurate,"accurate",808
-2141108,Spain,Santiago de Compostela,-8.54569,42.8805,1615,2021,accurate,NoInfo,"accurate",809
-2011395,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",810
-2011395,Italy,Florence,11.2463,43.7793,1481,1600,accurate,NoInfo,"approx",811
-2011395,NoInfo,NoInfo,11.2463,43.7793,1801,1600,NoInfo,accurate,"NoInfo",812
-2011395,Italy,NoInfo,12.8333,42.8333,1801,1600,approx,NoInfo,"NoInfo",813
-2011395,NoInfo,NoInfo,12.8333,42.8333,1801,1600,NoInfo,NoInfo,"NoInfo",814
-2011395,Italy,NoInfo,12.8333,42.8333,1801,2021,approx,NoInfo,"accurate",815
-2141034,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",816
-2141034,Italy,Florence,11.2463,43.7793,1496,1528,accurate,accurate,"accurate",817
-2141034,Italy,NoInfo,12.8333,42.8333,1990,2021,approx,accurate,"accurate",818
-2140961,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",819
-2140961,France,Paris,2.3488,48.8534,1853,1917,accurate,accurate,"accurate",820
-2140961,France,Paris,2.3488,48.8534,1917,2003,accurate,accurate,"accurate",821
-2140961,France,Paris,2.3488,48.8534,2003,2021,accurate,accurate,"accurate",822
-2141280,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",823
-2141280,Italy,Milan,9.18951,45.4643,1500,1566,accurate,approx,"accurate",824
-2141280,NoInfo,Europe,9.14062,48.691,1500,1566,accurate,NoInfo,"NoInfo",825
-2141280,United Kingdom,Sudbury,0.73117,52.0389,1825,1866,accurate,accurate,"accurate",826
-2141280,United Kingdom,London,-0.12574,51.5085,1918,1927,accurate,accurate,"accurate",827
-2141280,United States,Charlottesville,-78.4767,38.0293,1928,1960,accurate,accurate,"accurate",828
-2141280,Italy,Fratta Polesine,11.6426,45.0282,1960,1987,accurate,accurate,"accurate",829
-2141280,United States,Stanford,-122.166,37.4241,1987,2021,accurate,accurate,"accurate",830
-201623,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",831
-201623,Italy,Italy,12.8333,42.8333,1481,1600,accurate,accurate,"approx",832
-201623,Italy,Venice,12.3327,45.4371,1735,1789,accurate,accurate,"accurate",833
-201623,United Kingdom,Merthyr Mawr,-3.60861,51.4861,1823,1869,accurate,accurate,"accurate",834
-201623,United Kingdom,England,-0.70312,52.1604,1870,1936,accurate,accurate,"accurate",835
-201623,United States,Boston,-71.0598,42.3584,1936,1951,accurate,accurate,"accurate",836
-201623,United States,Cambridge,-71.1056,42.3751,1951,2021,accurate,accurate,"accurate",837
-2140702,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",838
-2140702,Italy,NoInfo,12.8333,42.8333,1501,1550,approx,accurate,"approx",839
-2140702,Italy,Florence,11.2463,43.7793,1708,1765,accurate,accurate,"accurate",840
-2140702,Italy,Florence,11.2463,43.7793,1714,1861,accurate,accurate,"accurate",841
-2140702,Italy,Florence,11.2463,43.7793,1885,2021,accurate,accurate,"accurate",842
-2141122,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",843
-2141122,Italy,Florence,11.2463,43.7793,1486,1560,accurate,accurate,"accurate",844
-2141122,NoInfo,NoInfo,11.2463,43.7793,1501,1800,NoInfo,accurate,"approx",845
-2141122,Germany,Dresden,13.7383,51.0509,1700,1763,accurate,approx,"accurate",846
-2141122,Germany,Dresden,13.7383,51.0509,1768,1775,accurate,accurate,"accurate",847
-2141122,Germany,Dresden,13.7383,51.0509,1775,2021,accurate,accurate,"accurate",848
-2001011,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",849
-2001011,Italy,Venice,12.3309,45.4389,1701,1761,accurate,accurate,"accurate",850
-2001011,United Kingdom,London,-0.12574,51.5085,1761,1820,accurate,accurate,"accurate",851
-2001011,United Kingdom,London,-0.12574,51.5085,1821,2021,accurate,accurate,"accurate",852
-2140726,Italy,Florence,11.2463,43.7793,1481,1481,accurate,accurate,"accurate",853
-2140726,Italy,NoInfo,12.8333,42.8333,1481,1500,approx,accurate,"approx",854
-2140726,Italy,NoInfo,12.8333,42.8333,1481,1700,approx,accurate,"approx",855
-2140726,Germany,Augsburg,10.8985,48.3715,1730,1700,accurate,accurate,"NoInfo",856
-2140726,Germany,Augsburg,10.8985,48.3715,1808,1700,accurate,accurate,"NoInfo",857
-2140726,Germany,Augsburg,10.8985,48.3715,1811,2021,accurate,accurate,"accurate",858
+id,lat1,lat2,lon1,lon2,time1,time2,stay,area1,area2,place1,place2,auto_id
+2130036,43.7793,47.3667,11.2463,8.55,1481,1481,0,Italy,Switzerland,Florence,"Zurich
+",1
+2011876,43.7793,45.4389,11.2463,12.3309,1481,1481,0,Italy,Italy,Florence,"Venice
+",2
+2011876,45.4389,45.4389,12.3309,12.3309,1797,1701,-96,Italy,Italy,Venice,"Venice
+",3
+2011876,45.4389,48.8534,12.3309,2.3488,1800,1797,-3,Italy,France,Venice,"Paris
+",4
+2013851,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"Italy
+",5
+2013851,42.8333,42.8333,12.8333,12.8333,1600,1800,200,Italy,NoInfo,Italy,"NoInfo
+",6
+2013851,42.8333,51.7311,12.8333,0.67463,1900,1940,40,NoInfo,United Kingdom,NoInfo,"Maldon
+",7
+2013851,51.7311,51.5085,0.67463,-0.12574,1963,2000,37,United Kingdom,United Kingdom,Maldon,"London
+",8
+2013851,51.5085,37.9838,-0.12574,23.7278,2001,2015,14,United Kingdom,Greece,London,"Athens
+",9
+2013851,37.9838,37.9838,23.7278,23.7278,2015,2015,0,Greece,Greece,Athens,"Athens
+",10
+2141340,43.7793,44.4048,11.2463,8.94439,1481,1765,284,Italy,Italy,Florence,"Genoa
+",11
+2140781,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",12
+2140781,42.8333,42.8333,12.8333,12.8333,1600,1625,25,Italy,Italy,NoInfo,"NoInfo
+",13
+2140781,42.8333,42.8333,12.8333,12.8333,1703,1701,-2,Italy,NoInfo,NoInfo,"NoInfo
+",14
+2140781,42.8333,43.7793,12.8333,11.2463,1800,1752,-48,NoInfo,Italy,NoInfo,"Florence
+",15
+2141376,43.7793,43.7793,11.2463,11.2463,1481,1894,413,Italy,Italy,Florence,"Florence
+",16
+2141376,43.7793,43.7793,11.2463,11.2463,1916,1921,5,Italy,Italy,Florence,"Florence
+",17
+2141406,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",18
+2141406,42.8333,50.8504,12.8333,4.34878,1700,1850,150,Italy,Belgium,NoInfo,"Brussels
+",19
+2141406,50.8504,44.2955,4.34878,9.99271,1890,1929,39,Belgium,Italy,Brussels,"Castiglione
+",20
+2019494,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",21
+2019494,43.7793,43.7793,11.2463,11.2463,1600,1501,-99,NoInfo,NoInfo,NoInfo,"NoInfo
+",22
+2019494,43.7793,45.4643,11.2463,9.18951,1600,1800,200,NoInfo,Italy,NoInfo,"Milan
+",23
+2141444,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,Italy,Florence,"Florence
+",24
+2141444,43.7793,42.8333,11.2463,12.8333,1500,1481,-19,Italy,Italy,Florence,"NoInfo
+",25
+2141444,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",26
+2141444,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,Italy,NoInfo,"NoInfo
+",27
+2141444,42.8333,38.132,12.8333,13.3356,1600,1788,188,Italy,Italy,NoInfo,"Palermo
+",28
+2141466,43.7793,42.3751,11.2463,-71.1056,1481,1950,469,Italy,United States,Florence,"Cambridge
+",29
+2141466,42.3751,42.3751,-71.1056,-71.1056,1984,1984,0,United States,United States,Cambridge,"Cambridge
+",30
+2013814,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",31
+2013814,42.8333,52.3792,12.8333,0.78599,1500,1781,281,Italy,United Kingdom,NoInfo,"Euston
+",32
+2013814,52.3792,51.5085,0.78599,-0.12574,1815,1815,0,United Kingdom,United Kingdom,Euston,"London
+",33
+2013814,51.5085,51.5085,-0.12574,-0.12574,1825,1825,0,United Kingdom,United Kingdom,London,"London
+",34
+2013814,51.5085,51.5085,-0.12574,-0.12574,1866,1867,1,United Kingdom,United Kingdom,London,"London
+",35
+2013814,51.5085,57.1718,-0.12574,-2.40945,1867,1867,0,United Kingdom,United Kingdom,London,"Dunecht
+",36
+2013814,57.1718,42.3584,-2.40945,-71.0598,1887,1887,0,United Kingdom,United States,Dunecht,"Boston
+",37
+2013814,42.3584,42.3584,-71.0598,-71.0598,1903,1903,0,United States,United States,Boston,"Boston
+",38
+2141160,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",39
+2141160,42.8333,52.2811,12.8333,-1.00095,1481,1792,311,Italy,United Kingdom,NoInfo,"Althorp
+",40
+2141160,52.2811,51.5085,-1.00095,-0.12574,1481,1757,276,United Kingdom,United Kingdom,Althorp,"London
+",41
+2141160,51.5085,51.5085,-0.12574,-0.12574,1829,1829,0,United Kingdom,United Kingdom,London,"London
+",42
+2141160,51.5085,51.5085,-0.12574,-0.12574,1829,1829,0,United Kingdom,United Kingdom,London,"London
+",43
+2141529,43.7793,50.0494,11.2463,10.2218,1481,1960,479,Italy,Germany,Florence,"Schweinfurt
+",44
+2141529,50.0494,40.7143,10.2218,-74.006,2000,1996,-4,Germany,United States,Schweinfurt,"New York
+",45
+2140753,43.7793,43.7936,11.2463,11.8203,1481,1854,373,Italy,Italy,Florence,"Camaldoli
+",46
+2140753,43.7936,43.7212,11.8203,11.7664,1856,1856,0,Italy,Italy,Camaldoli,"Poppi
+",47
+2140643,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",48
+2140643,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,Italy,NoInfo,"NoInfo
+",49
+2140643,42.8333,40.4244,12.8333,15.0798,1500,1481,-19,Italy,Italy,NoInfo,"Capaccio
+",50
+2140643,40.4244,41.9022,15.0798,12.4533,1504,1504,0,Italy,Vatican City,Capaccio,"Vatican City
+",51
+2140643,41.9022,48.8534,12.4533,2.3488,1504,1797,293,Vatican City,France,Vatican City,"Paris
+",52
+2140635,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",53
+2140635,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,Italy,NoInfo,"NoInfo
+",54
+2140635,42.8333,36.4356,12.8333,28.222,1500,1481,-19,Italy,Greece,NoInfo,"Rhodes
+",55
+2140635,36.4356,48.8534,28.222,2.3488,1503,1792,289,Greece,France,Rhodes,"Paris
+",56
+2140761,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",57
+2140761,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",58
+2140761,42.8333,41.8919,12.8333,12.5113,1600,1481,-119,Italy,Italy,NoInfo,"Rome
+",59
+2140633,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",60
+2140633,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,Italy,NoInfo,"NoInfo
+",61
+2140633,42.8333,43.7793,12.8333,11.2463,1600,1601,1,Italy,Italy,NoInfo,"Florence
+",62
+2140633,43.7793,48.8534,11.2463,2.3488,1800,1818,18,Italy,France,Florence,"Paris
+",63
+2140985,43.7793,48.691,11.2463,9.14062,1481,1481,0,Italy,NoInfo,Florence,"Europe
+",64
+2140985,48.691,48.691,9.14062,9.14062,1550,1700,150,NoInfo,NoInfo,Europe,"NoInfo
+",65
+2140985,48.691,48.8534,9.14062,2.3488,1800,1845,45,NoInfo,France,NoInfo,"Paris
+",66
+2140985,48.8534,48.8534,2.3488,2.3488,1934,1935,1,France,France,Paris,"Paris
+",67
+2140771,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",68
+2140771,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",69
+2140771,42.8333,43.7793,12.8333,11.2463,1600,1501,-99,Italy,Italy,NoInfo,"Florence
+",70
+2140771,43.7793,41.8919,11.2463,12.5113,1600,1754,154,Italy,Italy,Florence,"Rome
+",71
+2140771,41.8919,41.8919,12.5113,12.5113,1883,1883,0,Italy,Italy,Rome,"Rome
+",72
+2141568,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",73
+2141568,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,Italy,NoInfo,"NoInfo
+",74
+2141568,42.8333,43.7793,12.8333,11.2463,1600,1481,-119,Italy,Italy,NoInfo,"Florence
+",75
+2141568,43.7793,43.7793,11.2463,11.2463,1529,1794,265,Italy,Italy,Florence,"Florence
+",76
+2141568,43.7793,43.7793,11.2463,11.2463,1845,1805,-40,Italy,Italy,Florence,"Florence
+",77
+2141568,43.7793,43.7793,11.2463,11.2463,1868,1824,-44,Italy,Italy,Florence,"Florence
+",78
+2141568,43.7793,42.8333,11.2463,12.8333,1903,1949,46,Italy,Italy,Florence,"NoInfo
+",79
+2141271,43.7793,45.4643,11.2463,9.18951,1481,1481,0,Italy,Italy,Florence,"Milan
+",80
+2141271,45.4643,34.0522,9.18951,-118.244,1501,1963,462,Italy,United States,Milan,"Los Angeles
+",81
+2141268,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",82
+2141268,42.8333,40.7143,12.8333,-74.006,1600,1921,321,Italy,United States,NoInfo,"New York
+",83
+2141268,40.7143,42.712,-74.006,-73.2037,1936,1923,-13,United States,United States,New York,"Williamstown
+",84
+2141017,43.7793,42.8333,11.2463,12.8333,1481,1601,120,Italy,Italy,Florence,"NoInfo
+",85
+2141017,42.8333,43.5443,12.8333,10.3261,1800,1711,-89,Italy,Italy,NoInfo,"Livorno
+",86
+2141017,43.5443,43.7793,10.3261,11.2463,1792,1792,0,Italy,Italy,Livorno,"Florence
+",87
+2141017,43.7793,43.7793,11.2463,11.2463,1810,1810,0,Italy,Italy,Florence,"Florence
+",88
+2141530,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",89
+2141530,42.8333,45.4371,12.8333,12.3327,1500,1481,-19,Italy,Italy,NoInfo,"Venice
+",90
+2141530,45.4371,45.4371,12.3327,12.3327,1806,1807,1,Italy,Italy,Venice,"Venice
+",91
+2141555,43.7793,35.6854,11.2463,139.753,1481,1501,20,Italy,Japan,Florence,"NoInfo
+",92
+2141555,35.6854,-14.6048,139.753,-57.6562,1600,1850,250,Japan,United States,NoInfo,"NoInfo
+",93
+2141555,-14.6048,40.1106,-57.6562,-88.2073,1950,1965,15,United States,United States,NoInfo,"Urbana
+",94
+2140612,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",95
+2140612,42.8333,50.8504,12.8333,4.34878,1600,1481,-119,Italy,Belgium,NoInfo,"Brussels
+",96
+2140613,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",97
+2140613,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,NoInfo,NoInfo,"NoInfo
+",98
+2140613,42.8333,41.8919,12.8333,12.5113,1700,1570,-130,NoInfo,Italy,NoInfo,"Rome
+",99
+2140613,41.8919,40.9115,12.5113,-73.7823,1630,1920,290,Italy,United States,Rome,"New Rochelle
+",100
+2140613,40.9115,50.8504,-73.7823,4.34878,1961,1963,2,United States,Belgium,New Rochelle,"Brussels
+",101
+2141605,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",102
+2141605,42.8333,59.9386,12.8333,30.3141,1600,1795,195,Italy,Russia,NoInfo,"St Petersburg
+",103
+2141250,43.7793,43.7793,11.2463,11.2463,1481,1512,31,Italy,Italy,Florence,"Florence
+",104
+2141250,43.7793,43.4738,11.2463,11.0297,1561,1530,-31,Italy,Italy,Florence,"San Gimignano
+",105
+2141250,43.4738,51.5085,11.0297,-0.12574,1530,1766,236,Italy,United Kingdom,San Gimignano,"London
+",106
+2141250,51.5085,52.373,-0.12574,4.89856,1827,1981,154,United Kingdom,Netherlands,London,"Gemeente Amsterdam
+",107
+2007303,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",108
+2007303,42.8333,42.8333,12.8333,12.8333,1481,1501,20,Italy,Italy,NoInfo,"NoInfo
+",109
+2007303,42.8333,42.8333,12.8333,12.8333,1481,1501,20,Italy,Italy,NoInfo,"NoInfo
+",110
+2007303,42.8333,45.4642,12.8333,9.19199,1700,1801,101,Italy,Italy,NoInfo,"Milan
+",111
+2007303,45.4642,45.4642,9.19199,9.19199,1700,1801,101,Italy,Italy,Milan,"Milan
+",112
+2007303,45.4642,45.4642,9.19199,9.19199,1700,1901,201,Italy,Italy,Milan,"Milan
+",113
+2007303,45.4642,42.8333,9.19199,12.8333,1700,1901,201,Italy,Italy,Milan,"NoInfo
+",114
+2141203,43.7793,41.824,11.2463,-71.4128,1481,1907,426,Italy,United States,Florence,"Providence
+",115
+2141203,41.824,41.824,-71.4128,-71.4128,1948,1948,0,United States,United States,Providence,"Providence
+",116
+2140668,43.7793,53.5507,11.2463,9.99302,1481,1481,0,Italy,Germany,Florence,"Hamburg
+",117
+2140701,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,Italy,Florence,"Florence
+",118
+2140701,43.7793,43.7793,11.2463,11.2463,1600,1714,114,Italy,Italy,Florence,"Florence
+",119
+2140701,43.7793,43.7793,11.2463,11.2463,1861,1861,0,Italy,Italy,Florence,"Florence
+",120
+2141556,43.7793,43.7793,11.2463,11.2463,1481,1899,418,Italy,Italy,Florence,"Florence
+",121
+2141556,43.7793,43.3085,11.2463,13.3104,1899,1899,0,Italy,Italy,Florence,"Treia
+",122
+2141556,43.3085,41.7031,13.3104,-86.2392,1902,1902,0,Italy,United States,Treia,"University of Notre Dame
+",123
+2140623,43.7793,48.691,11.2463,9.14062,1481,1481,0,Italy,NoInfo,Florence,"Europe
+",124
+2140623,48.691,42.8333,9.14062,12.8333,1481,1659,178,NoInfo,Italy,Europe,"NoInfo
+",125
+2140623,42.8333,44.0551,12.8333,5.04813,1660,1683,23,Italy,France,NoInfo,"Carpentras
+",126
+2140623,44.0551,44.0551,5.04813,5.04813,1757,1757,0,France,France,Carpentras,"Carpentras
+",127
+2141180,43.7793,43.7793,11.2463,11.2463,1481,1801,320,Italy,NoInfo,Florence,"NoInfo
+",128
+2141180,43.7793,43.7793,11.2463,11.2463,2000,1850,-150,NoInfo,NoInfo,NoInfo,"NoInfo
+",129
+2141180,43.7793,54.7584,11.2463,-2.69531,1950,1896,-54,NoInfo,United Kingdom,NoInfo,"NoInfo
+",130
+2141180,54.7584,51.5085,-2.69531,-0.12574,1921,1921,0,United Kingdom,United Kingdom,NoInfo,"London
+",131
+2141614,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",132
+2141614,42.8333,42.2626,12.8333,-71.8023,1600,1880,280,Italy,United States,NoInfo,"Worcester
+",133
+2141614,42.2626,42.2584,-71.8023,-72.5745,1929,1880,-49,United States,United States,Worcester,"South Hadley
+",134
+2141614,42.2584,42.2584,-72.5745,-72.5745,1974,1974,0,United States,United States,South Hadley,"South Hadley
+",135
+2141350,43.7793,54.7584,11.2463,-2.69531,1481,1701,220,Italy,United Kingdom,Florence,"NoInfo
+",136
+2141350,54.7584,51.85,-2.69531,-1.36667,1800,1717,-83,United Kingdom,United Kingdom,NoInfo,"Blenheim Palace
+",137
+2141350,51.85,52.2,-1.36667,0.11667,1804,1804,0,United Kingdom,United Kingdom,Blenheim Palace,"Cambridge
+",138
+2140616,43.7793,55.6759,11.2463,12.5655,1481,1703,222,Italy,Denmark,Florence,"Copenhagen
+",139
+2140616,55.6759,55.6759,12.5655,12.5655,1785,1792,7,Denmark,Denmark,Copenhagen,"Copenhagen
+",140
+2141622,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",141
+2141622,42.8333,43.7793,12.8333,11.2463,1481,1897,416,Italy,Italy,NoInfo,"Florence
+",142
+2141622,43.7793,39.2904,11.2463,-76.6122,1910,1910,0,Italy,United States,Florence,"Baltimore
+",143
+2141622,39.2904,39.2904,-76.6122,-76.6122,1931,1931,0,United States,United States,Baltimore,"Baltimore
+",144
+2141620,43.7793,43.7793,11.2463,11.2463,1481,1897,416,Italy,Italy,Florence,"Florence
+",145
+2141620,43.7793,39.2904,11.2463,-76.6122,1910,1910,0,Italy,United States,Florence,"Baltimore
+",146
+2141620,39.2904,39.2904,-76.6122,-76.6122,1931,1931,0,United States,United States,Baltimore,"Baltimore
+",147
+2141625,43.7793,40.8522,11.2463,14.2681,1481,1736,255,Italy,Italy,Florence,"Naples
+",148
+2141627,43.7793,48.691,11.2463,9.14062,1481,1481,0,Italy,NoInfo,Florence,"Europe
+",149
+2141627,48.691,48.691,9.14062,9.14062,1600,1601,1,NoInfo,NoInfo,Europe,"NoInfo
+",150
+2141627,48.691,48.1374,9.14062,11.5755,1700,1880,180,NoInfo,Germany,NoInfo,"Munich
+",151
+2141627,48.1374,41.9027,11.5755,12.4541,1979,1979,0,Germany,Vatican City,Munich,"NoInfo
+",152
+2141433,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",153
+2141433,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,Italy,NoInfo,"NoInfo
+",154
+2141433,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,NoInfo,NoInfo,"NoInfo
+",155
+2141433,42.8333,41.8919,12.8333,12.5113,1600,1501,-99,NoInfo,Italy,NoInfo,"Rome
+",156
+2141433,41.8919,41.9022,12.5113,12.4533,1923,1923,0,Italy,Vatican City,Rome,"Vatican City
+",157
+2141428,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",158
+2141428,42.8333,41.9027,12.8333,12.4541,1600,1877,277,Italy,Vatican City,NoInfo,"NoInfo
+",159
+2141428,41.9027,41.9022,12.4541,12.4533,1921,1877,-44,Vatican City,Vatican City,NoInfo,"Vatican City
+",160
+2140745,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",161
+2140745,42.8333,42.8333,12.8333,12.8333,1600,1801,201,Italy,NoInfo,NoInfo,"NoInfo
+",162
+2140745,42.8333,40.8522,12.8333,14.2681,1900,1804,-96,NoInfo,Italy,NoInfo,"Naples
+",163
+2141554,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"Italy
+",164
+2141554,42.8333,43.7793,12.8333,11.2463,1500,1501,1,Italy,Italy,Italy,"Florence
+",165
+2141554,43.7793,52.8619,11.2463,-3.05497,1600,1806,206,Italy,United Kingdom,Florence,"Oswestry
+",166
+2141554,52.8619,40.3487,-3.05497,-74.659,1843,1900,57,United Kingdom,United States,Oswestry,"Princeton
+",167
+2141554,40.3487,40.3487,-74.659,-74.659,1955,1955,0,United States,United States,Princeton,"Princeton
+",168
+2141630,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",169
+2141630,43.7793,43.9145,11.2463,-69.9653,1600,1870,270,NoInfo,United States,NoInfo,"Brunswick
+",170
+2141630,43.9145,43.9145,-69.9653,-69.9653,1915,1970,55,United States,United States,Brunswick,"Brunswick
+",171
+2140711,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",172
+2140711,42.8333,43.7793,12.8333,11.2463,1600,1826,226,Italy,Italy,NoInfo,"Florence
+",173
+2140711,43.7793,43.7793,11.2463,11.2463,1834,1850,16,Italy,Italy,Florence,"Florence
+",174
+2141037,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",175
+2141037,42.8333,43.7793,12.8333,11.2463,1500,1849,349,Italy,Italy,NoInfo,"Florence
+",176
+2141037,43.7793,43.7793,11.2463,11.2463,1874,1874,0,Italy,Italy,Florence,"Florence
+",177
+2141037,43.7793,43.7793,11.2463,11.2463,1905,1907,2,Italy,Italy,Florence,"Florence
+",178
+2126770,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,NoInfo,Florence,"NoInfo
+",179
+2126770,43.7793,43.7793,11.2463,11.2463,1500,1481,-19,NoInfo,NoInfo,NoInfo,"NoInfo
+",180
+2126770,43.7793,43.7793,11.2463,11.2463,1500,1481,-19,NoInfo,NoInfo,NoInfo,"NoInfo
+",181
+2126770,43.7793,43.7793,11.2463,11.2463,1500,1500,0,NoInfo,NoInfo,NoInfo,"NoInfo
+",182
+2126770,43.7793,51.5085,11.2463,-0.12574,1560,1791,231,NoInfo,United Kingdom,NoInfo,"London
+",183
+2126770,51.5085,52.0769,-0.12574,-1.24167,1791,1791,0,United Kingdom,United Kingdom,London,"Thenford
+",184
+2126770,52.0769,51.5085,-1.24167,-0.12574,1816,1816,0,United Kingdom,United Kingdom,Thenford,"London
+",185
+2126770,51.5085,52.0769,-0.12574,-1.24167,1824,1824,0,United Kingdom,United Kingdom,London,"Thenford
+",186
+2126770,52.0769,52.0769,-1.24167,-1.24167,1846,1846,0,United Kingdom,United Kingdom,Thenford,"Thenford
+",187
+2126770,52.0769,40.7143,-1.24167,-74.006,1886,1886,0,United Kingdom,United States,Thenford,"New York
+",188
+2126770,40.7143,42.8333,-74.006,12.8333,1886,1886,0,United States,Italy,New York,"NoInfo
+",189
+2126770,42.8333,42.8333,12.8333,12.8333,1904,1904,0,Italy,Italy,NoInfo,"NoInfo
+",190
+2126770,42.8333,44.4134,12.8333,12.2012,1905,1905,0,Italy,Italy,NoInfo,"Ravenna
+",191
+2140741,43.7793,43.7793,11.2463,11.2463,1481,1562,81,Italy,Italy,Florence,"Florence
+",192
+2140741,43.7793,43.7793,11.2463,11.2463,1562,1701,139,Italy,NoInfo,Florence,"NoInfo
+",193
+2140741,43.7793,40.8522,11.2463,14.2681,1800,1804,4,NoInfo,Italy,NoInfo,"Naples
+",194
+2141490,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",195
+2141490,43.7793,43.7793,11.2463,11.2463,1600,1501,-99,NoInfo,NoInfo,NoInfo,"NoInfo
+",196
+2141490,43.7793,41.9027,11.2463,12.4541,1600,1501,-99,NoInfo,Vatican City,NoInfo,"NoInfo
+",197
+2141490,41.9027,38.8951,12.4541,-77.0364,1930,1932,2,Vatican City,United States,NoInfo,"Washington
+",198
+2141263,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",199
+2141263,42.8333,51.5085,12.8333,-0.12574,1700,1810,110,Italy,United Kingdom,NoInfo,"London
+",200
+2141263,51.5085,54.7584,-0.12574,-2.69531,1843,1845,2,United Kingdom,United Kingdom,London,"NoInfo
+",201
+2141263,54.7584,54.7584,-2.69531,-2.69531,1845,1845,0,United Kingdom,United Kingdom,NoInfo,"NoInfo
+",202
+2141263,54.7584,51.5085,-2.69531,-0.12574,1868,1868,0,United Kingdom,United Kingdom,NoInfo,"London
+",203
+2141263,51.5085,42.3584,-0.12574,-71.0598,1875,1875,0,United Kingdom,United States,London,"Boston
+",204
+2141263,42.3584,42.3751,-71.0598,-71.1056,1919,1919,0,United States,United States,Boston,"Cambridge
+",205
+2141270,43.7793,43.7793,11.2463,11.2463,1481,1701,220,Italy,NoInfo,Florence,"NoInfo
+",206
+2141270,43.7793,39.1271,11.2463,-84.5144,1800,1820,20,NoInfo,United States,NoInfo,"Cincinnati
+",207
+2141270,39.1271,41.85,-84.5144,-87.65,1890,1890,0,United States,United States,Cincinnati,"Chicago
+",208
+2140994,43.7793,48.8534,11.2463,2.3488,1481,1731,250,Italy,France,Florence,"Paris
+",209
+2140994,48.8534,53.5507,2.3488,9.99302,1788,1731,-57,France,Germany,Paris,"Hamburg
+",210
+2140994,53.5507,53.5507,9.99302,9.99302,1863,1863,0,Germany,Germany,Hamburg,"Hamburg
+",211
+2141186,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",212
+2141186,42.8333,43.7793,12.8333,11.2463,1500,1481,-19,Italy,Italy,NoInfo,"Florence
+",213
+2141186,43.7793,42.8333,11.2463,12.8333,1500,1501,1,Italy,Italy,Florence,"NoInfo
+",214
+2141186,42.8333,52.2811,12.8333,-1.00095,1600,1807,207,Italy,United Kingdom,NoInfo,"Althorp
+",215
+2141186,52.2811,52.2811,-1.00095,-1.00095,1834,1835,1,United Kingdom,NoInfo,Althorp,"
+",216
+2141186,52.2811,53.4809,-1.00095,-2.23743,1892,1892,0,NoInfo,United Kingdom,,"Manchester
+",217
+2141186,53.4809,53.4809,-2.23743,-2.23743,1892,1892,0,United Kingdom,United Kingdom,Manchester,"Manchester
+",218
+2141489,43.7793,51.5085,11.2463,-0.12574,1481,1860,379,Italy,United Kingdom,Florence,"London
+",219
+2141489,51.5085,40.7143,-0.12574,-74.006,1927,1860,-67,United Kingdom,United States,London,"New York
+",220
+2141489,40.7143,40.0959,-74.006,-75.1252,1935,1935,0,United States,United States,New York,"Jenkintown
+",221
+2141489,40.0959,38.8951,-75.1252,-77.0364,1943,1943,0,United States,United States,Jenkintown,"Washington
+",222
+2140943,43.7793,50.6337,11.2463,5.56749,1481,1817,336,Italy,Belgium,Florence,"Li�ge
+",223
+2140632,43.7793,42.8333,11.2463,12.8333,1481,1500,19,Italy,Italy,Florence,"NoInfo
+",224
+2140632,42.8333,41.8919,12.8333,12.5113,1481,1733,252,Italy,Italy,NoInfo,"Rome
+",225
+2140632,41.8919,48.8534,12.5113,2.3488,1783,1788,5,Italy,France,Rome,"Paris
+",226
+2140632,48.8534,48.8534,2.3488,2.3488,1792,1792,0,France,France,Paris,"Paris
+",227
+2141738,43.7793,48.8534,11.2463,2.3488,1481,1481,0,Italy,France,Florence,"Paris
+",228
+2141738,48.8534,48.8534,2.3488,2.3488,1838,1838,0,France,France,Paris,"Paris
+",229
+2141738,48.8534,48.8534,2.3488,2.3488,1838,1838,0,France,France,Paris,"Paris
+",230
+2141737,43.7793,48.8534,11.2463,2.3488,1481,1481,0,Italy,France,Florence,"Paris
+",231
+2141737,48.8534,48.8534,2.3488,2.3488,1784,1784,0,France,France,Paris,"Paris
+",232
+2001008,43.7793,51.5085,11.2463,-0.12574,1481,1755,274,Italy,United Kingdom,Florence,"London
+",233
+2001008,51.5085,51.5085,-0.12574,-0.12574,1846,1847,1,United Kingdom,United Kingdom,London,"London
+",234
+2141599,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",235
+2141599,43.7793,52.5244,11.2463,13.4105,1600,1800,200,NoInfo,Germany,NoInfo,"Berlin
+",236
+2141599,52.5244,52.5244,13.4105,13.4105,1846,1850,4,Germany,Germany,Berlin,"Berlin
+",237
+2141629,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",238
+2141629,43.7793,52.5244,11.2463,13.4105,1600,1880,280,NoInfo,Germany,NoInfo,"Berlin
+",239
+2141629,52.5244,52.5244,13.4105,13.4105,1904,1906,2,Germany,Germany,Berlin,"Berlin
+",240
+2141643,43.7793,43.7793,11.2463,11.2463,1481,1833,352,Italy,NoInfo,Florence,"NoInfo
+",241
+2141643,43.7793,46.2167,11.2463,6.18041,1861,1951,90,NoInfo,Switzerland,NoInfo,"Cologny
+",242
+2140783,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",243
+2140783,42.8333,43.3182,12.8333,11.3306,1600,1758,158,Italy,Italy,NoInfo,"Siena
+",244
+2141600,43.7793,51.0509,11.2463,13.7383,1481,1853,372,Italy,Germany,Florence,"Dresden
+",245
+2141600,51.0509,51.0509,13.7383,13.7383,1865,1853,-12,Germany,Germany,Dresden,"Dresden
+",246
+2141601,43.7793,51.0509,11.2463,13.7383,1481,1481,0,Italy,Germany,Florence,"Dresden
+",247
+2140795,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"NoInfo
+",248
+2140795,42.8333,45.532,12.8333,12.1869,1700,1701,1,Italy,Italy,NoInfo,"Trivignano
+",249
+2140795,45.532,45.6667,12.1869,12.2416,1800,1737,-63,Italy,Italy,Trivignano,"Treviso
+",250
+2140795,45.6667,45.6667,12.2416,12.2416,1810,1810,0,Italy,Italy,Treviso,"Treviso
+",251
+2140630,43.7793,45.4389,11.2463,12.3309,1481,1481,0,Italy,Italy,Florence,"Venice
+",252
+2140630,45.4389,45.4389,12.3309,12.3309,1519,1519,0,Italy,Italy,Venice,"Venice
+",253
+2140630,45.4389,48.8534,12.3309,2.3488,1547,1801,254,Italy,France,Venice,"Paris
+",254
+2141192,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",255
+2141192,42.8333,42.8333,12.8333,12.8333,1500,1550,50,Italy,Italy,NoInfo,"Italy
+",256
+2141192,42.8333,42.3584,12.8333,-71.0598,1650,1939,289,Italy,United States,Italy,"Boston
+",257
+2141192,42.3584,42.3751,-71.0598,-71.1056,1939,1939,0,United States,United States,Boston,"Cambridge
+",258
+2141192,42.3751,42.3751,-71.1056,-71.1056,1943,1943,0,United States,United States,Cambridge,"Cambridge
+",259
+2141192,42.3751,42.3584,-71.1056,-71.0598,1943,1943,0,United States,United States,Cambridge,"Boston
+",260
+2140648,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,Italy,Florence,"Florence
+",261
+2140648,43.7793,43.7793,11.2463,11.2463,1501,1500,-1,Italy,NoInfo,Florence,"NoInfo
+",262
+2140648,43.7793,41.8919,11.2463,12.5113,1700,1717,17,NoInfo,Italy,NoInfo,"Rome
+",263
+2140648,41.8919,48.8534,12.5113,2.3488,1799,1717,-82,Italy,France,Rome,"Paris
+",264
+2141739,43.7793,43.297,11.2463,5.38107,1481,1766,285,Italy,France,Florence,"Marseille
+",265
+2141739,43.297,48.8534,5.38107,2.3488,1778,1781,3,France,France,Marseille,"Paris
+",266
+2141717,43.7793,48.2085,11.2463,16.3721,1481,1776,295,Italy,Austria,Florence,"Vienna
+",267
+2141004,43.7793,47.2488,11.2463,6.01815,1481,1753,272,Italy,France,Florence,"Besan�on
+",268
+2141004,47.2488,47.2488,6.01815,6.01815,1826,1826,0,France,France,Besan�on,"Besan�on
+",269
+2144949,43.7793,42.8333,11.2463,12.8333,1481,1550,69,Italy,Italy,Florence,"NoInfo
+",270
+2144949,42.8333,46,12.8333,2,1650,1908,258,Italy,France,NoInfo,"NoInfo
+",271
+2144949,46,40.7143,2,-74.006,1908,1908,0,France,United States,NoInfo,"New York
+",272
+2144949,40.7143,40.7143,-74.006,-74.006,1944,1922,-22,United States,United States,New York,"New York
+",273
+2141557,43.7793,43.7793,11.2463,11.2463,1481,1695,214,Italy,Italy,Florence,"Florence
+",274
+2141557,43.7793,43.7793,11.2463,11.2463,1758,1749,-9,Italy,Italy,Florence,"Florence
+",275
+2141557,43.7793,43.7793,11.2463,11.2463,1803,1801,-2,Italy,NoInfo,Florence,"NoInfo
+",276
+2141557,43.7793,52.0389,11.2463,0.73117,1900,1825,-75,NoInfo,United Kingdom,NoInfo,"Sudbury
+",277
+2141557,52.0389,51.5085,0.73117,-0.12574,1866,1866,0,United Kingdom,United Kingdom,Sudbury,"London
+",278
+2141557,51.5085,51.4741,-0.12574,-0.91212,1919,1875,-44,United Kingdom,United Kingdom,London,"Sonning
+",279
+2141557,51.4741,41.5623,-0.91212,-72.6507,1937,1875,-62,United Kingdom,United States,Sonning,"Middletown
+",280
+2144952,43.7793,48.8534,11.2463,2.3488,1481,1844,363,Italy,France,Florence,"Paris
+",281
+2144952,48.8534,41.8919,2.3488,12.5113,1884,2007,123,France,Italy,Paris,"Rome
+",282
+2144952,41.8919,45.4643,12.5113,9.18951,1884,2007,123,Italy,Italy,Rome,"Milan
+",283
+2141558,43.7793,41.3082,11.2463,-72.9282,1481,1963,482,Italy,United States,Florence,"New Haven
+",284
+2141439,43.7793,42.4406,11.2463,-76.4966,1481,1865,384,Italy,United States,Florence,"Ithaca
+",285
+2141267,43.7793,34.0967,11.2463,-117.72,1481,1927,446,Italy,United States,Florence,"Claremont
+",286
+2141440,43.7793,39.1653,11.2463,-86.5264,1481,1960,479,Italy,United States,Florence,"Bloomington
+",287
+2001009,43.7793,42.8333,11.2463,12.8333,1481,1475,-6,Italy,Italy,Florence,"NoInfo
+",288
+2001009,42.8333,42.8333,12.8333,12.8333,1525,1750,225,Italy,Italy,NoInfo,"NoInfo
+",289
+2001009,42.8333,51.5085,12.8333,-0.12574,1825,1842,17,Italy,United Kingdom,NoInfo,"London
+",290
+2140856,43.7793,43.7793,11.2463,11.2463,1481,1550,69,Italy,Italy,Florence,"Florence
+",291
+2140856,43.7793,51.5085,11.2463,-0.12574,1605,1650,45,Italy,United Kingdom,Florence,"London
+",292
+2140856,51.5085,51.5085,-0.12574,-0.12574,1757,1757,0,United Kingdom,United Kingdom,London,"London
+",293
+2140784,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",294
+2140784,42.8333,43.7793,12.8333,11.2463,1500,1614,114,Italy,Italy,NoInfo,"Florence
+",295
+2140784,43.7793,43.3182,11.2463,11.3306,1500,1758,258,Italy,Italy,Florence,"Siena
+",296
+2142781,43.7793,43.7793,11.2463,11.2463,1481,1812,331,Italy,Italy,Florence,"Florence
+",297
+2142781,43.7793,51.0509,11.2463,13.7383,1829,1840,11,Italy,Germany,Florence,"Dresden
+",298
+2142781,51.0509,51.0509,13.7383,13.7383,1920,1920,0,Germany,Germany,Dresden,"Dresden
+",299
+2142781,51.0509,51.0509,13.7383,13.7383,1938,1938,0,Germany,Germany,Dresden,"Dresden
+",300
+2142781,51.0509,55.7522,13.7383,37.6156,1945,1945,0,Germany,Russia,Dresden,"Moscow
+",301
+2141086,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",302
+2141086,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",303
+2141086,42.8333,42.8333,12.8333,12.8333,1600,1601,1,Italy,Italy,NoInfo,"NoInfo
+",304
+2141086,42.8333,48.1374,12.8333,11.5755,1700,1800,100,Italy,Germany,NoInfo,"Munich
+",305
+2141086,48.1374,45.4469,11.5755,8.62118,1830,1800,-30,Germany,Italy,Munich,"Novara
+",306
+2141086,45.4469,45.4469,8.62118,8.62118,1896,1896,0,Italy,Italy,Novara,"Novara
+",307
+2141148,43.7793,48.691,11.2463,9.14062,1481,1501,20,Italy,NoInfo,Florence,"Europe
+",308
+2141148,48.691,35.6854,9.14062,139.753,1600,1701,101,NoInfo,Japan,Europe,"NoInfo
+",309
+2141148,35.6854,35.6854,139.753,139.753,1800,1701,-99,Japan,Japan,NoInfo,"NoInfo
+",310
+2141148,35.6854,53.2266,139.753,-1.62576,1800,1811,11,Japan,United Kingdom,NoInfo,"Edensor
+",311
+2141148,53.2266,53.2167,-1.62576,-1.6,1844,1844,0,United Kingdom,United Kingdom,Edensor,"Chatsworth House
+",312
+2141598,43.7793,48.1374,11.2463,11.5755,1481,1481,0,Italy,Germany,Florence,"Munich
+",313
+2141603,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",314
+2141603,42.8333,35.6854,12.8333,139.753,1600,1701,101,Italy,Japan,NoInfo,"NoInfo
+",315
+2141603,35.6854,35.6854,139.753,139.753,1800,1950,150,Japan,NoInfo,NoInfo,"NoInfo
+",316
+2141603,35.6854,45.0705,139.753,7.68682,1980,1950,-30,NoInfo,Italy,NoInfo,"Turin
+",317
+2141603,45.0705,46.2022,7.68682,6.14569,2013,2013,0,Italy,Switzerland,Turin,"Geneva
+",318
+2141143,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",319
+2141143,42.8333,54.7584,12.8333,-2.69531,1500,1813,313,Italy,United Kingdom,NoInfo,"NoInfo
+",320
+2141143,54.7584,51.5085,-2.69531,-0.12574,1857,1857,0,United Kingdom,United Kingdom,NoInfo,"London
+",321
+2141143,51.5085,51.5085,-0.12574,-0.12574,1857,1860,3,United Kingdom,United Kingdom,London,"London
+",322
+2141143,51.5085,51.5085,-0.12574,-0.12574,1860,1862,2,United Kingdom,United Kingdom,London,"London
+",323
+2141143,51.5085,50.1678,-0.12574,-5.32303,1862,1862,0,United Kingdom,United Kingdom,London,"Crowan
+",324
+2141143,50.1678,52.2,-5.32303,0.11667,1863,1863,0,United Kingdom,United Kingdom,Crowan,"Cambridge
+",325
+2140676,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",326
+2140676,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",327
+2140676,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,Italy,NoInfo,"NoInfo
+",328
+2140676,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,Italy,NoInfo,"NoInfo
+",329
+2140676,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,Italy,NoInfo,"NoInfo
+",330
+2140676,42.8333,43.7793,12.8333,11.2463,1600,1510,-90,Italy,Italy,NoInfo,"Florence
+",331
+2140676,43.7793,43.7793,11.2463,11.2463,1537,1540,3,Italy,Italy,Florence,"Florence
+",332
+2140676,43.7793,43.7793,11.2463,11.2463,1599,1593,-6,Italy,Italy,Florence,"Florence
+",333
+2140676,43.7793,43.7793,11.2463,11.2463,1647,1620,-27,Italy,Italy,Florence,"Florence
+",334
+2140676,43.7793,48.6844,11.2463,6.18496,1620,1740,120,Italy,France,Florence,"Nancy
+",335
+2140676,48.6844,48.8973,6.18496,9.19161,1799,1740,-59,France,Germany,Nancy,"Ludwigsburg
+",336
+2140676,48.8973,48.7767,9.19161,9.1775,1799,1740,-59,Germany,Germany,Ludwigsburg,"Stuttgart
+",337
+2142772,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",338
+2142772,43.7793,42.8333,11.2463,12.8333,1600,1668,68,NoInfo,Italy,NoInfo,"NoInfo
+",339
+2142772,42.8333,43.7793,12.8333,11.2463,1668,1701,33,Italy,Italy,NoInfo,"Florence
+",340
+2142772,43.7793,35.6854,11.2463,139.753,1800,1701,-99,Italy,Japan,Florence,"NoInfo
+",341
+2142772,35.6854,-22.9064,139.753,-43.1822,1800,1849,49,Japan,Brazil,NoInfo,"Rio de Janeiro
+",342
+2142772,-22.9064,-22.9064,-43.1822,-43.1822,1923,1928,5,Brazil,Brazil,Rio de Janeiro,"Rio de Janeiro
+",343
+2001010,43.7793,54.7584,11.2463,-2.69531,1481,1700,219,Italy,United Kingdom,Florence,"NoInfo
+",344
+2001010,54.7584,51.5085,-2.69531,-0.12574,1800,1790,-10,United Kingdom,United Kingdom,NoInfo,"London
+",345
+2001010,51.5085,51.5085,-0.12574,-0.12574,1799,1799,0,United Kingdom,United Kingdom,London,"London
+",346
+2142777,43.7793,51.0509,11.2463,13.7383,1481,1556,75,Italy,Germany,Florence,"Dresden
+",347
+2142777,51.0509,55.7522,13.7383,37.6156,1945,1945,0,Germany,Russia,Dresden,"Moscow
+",348
+559810,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",349
+559810,42.8333,51.4817,12.8333,-0.28749,1700,1728,28,Italy,United Kingdom,NoInfo,"Kew
+",350
+559810,51.4817,51.5085,-0.28749,-0.12574,1805,1805,0,United Kingdom,United Kingdom,Kew,"London
+",351
+559810,51.5085,54.7584,-0.12574,-2.69531,1835,1844,9,United Kingdom,United Kingdom,London,"NoInfo
+",352
+559810,54.7584,52.2,-2.69531,0.11667,1910,1910,0,United Kingdom,United Kingdom,NoInfo,"Cambridge
+",353
+2140828,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,NoInfo,Florence,"NoInfo
+",354
+2140828,43.7793,51.0509,11.2463,13.7383,1481,1819,338,NoInfo,Germany,NoInfo,"Dresden
+",355
+2140828,51.0509,51.3396,13.7383,12.3713,1886,1886,0,Germany,Germany,Dresden,"Leipzig
+",356
+2140828,51.3396,55.7522,12.3713,37.6156,1945,1945,0,Germany,Russia,Leipzig,"Moscow
+",357
+2140829,43.7793,59.9386,11.2463,30.3141,1481,1820,339,Italy,Russia,Florence,"St Petersburg
+",358
+2140829,59.9386,55.7522,30.3141,37.6156,1869,1869,0,Russia,Russia,St Petersburg,"Moscow
+",359
+2140829,55.7522,55.7522,37.6156,37.6156,1924,1924,0,Russia,Russia,Moscow,"Moscow
+",360
+2141491,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",361
+2141491,42.8333,44.3259,12.8333,7.67431,1500,1650,150,Italy,Italy,NoInfo,"Chiusa di Pesio
+",362
+2141491,44.3259,51.5085,7.67431,-0.12574,1650,1841,191,Italy,United Kingdom,Chiusa di Pesio,"London
+",363
+2141491,51.5085,37.8044,-0.12574,-122.271,1883,1877,-6,United Kingdom,United States,London,"Oakland
+",364
+2141491,37.8044,37.8044,-122.271,-122.271,1948,1948,0,United States,United States,Oakland,"Oakland
+",365
+2142782,43.7793,51.5085,11.2463,-0.12574,1481,1835,354,Italy,United Kingdom,Florence,"London
+",366
+2142782,51.5085,51.5085,-0.12574,-0.12574,1845,1845,0,United Kingdom,United Kingdom,London,"London
+",367
+2141147,43.7793,43.7793,11.2463,11.2463,1481,1554,73,Italy,Italy,Florence,"Florence
+",368
+2141147,43.7793,51.5085,11.2463,-0.12574,1571,1645,74,Italy,United Kingdom,Florence,"London
+",369
+2141147,51.5085,52.2,-0.12574,0.11667,1645,1645,0,United Kingdom,United Kingdom,London,"Cambridge
+",370
+2140991,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",371
+2140991,42.8333,40.8522,12.8333,14.2681,1600,1481,-119,Italy,Italy,NoInfo,"Naples
+",372
+2140991,40.8522,54.7584,14.2681,-2.69531,1600,1781,181,Italy,United Kingdom,Naples,"NoInfo
+",373
+2140991,54.7584,47.3948,-2.69531,0.70398,1833,1781,-52,United Kingdom,France,NoInfo,"Tours
+",374
+2140991,47.3948,47.3948,0.70398,0.70398,1972,1972,0,France,France,Tours,"Tours
+",375
+2138497,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",376
+2138497,43.7793,52.0687,11.2463,4.28635,1600,1824,224,NoInfo,Netherlands,NoInfo,"Gemeente Den Haag
+",377
+2138497,52.0687,52.0687,4.28635,4.28635,1848,1824,-24,Netherlands,Netherlands,Gemeente Den Haag,"Gemeente Den Haag
+",378
+2129250,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",379
+2129250,42.8333,54.7584,12.8333,-2.69531,1500,1800,300,Italy,United Kingdom,NoInfo,"NoInfo
+",380
+2129250,54.7584,51.5085,-2.69531,-0.12574,1848,1849,1,United Kingdom,United Kingdom,NoInfo,"London
+",381
+2129250,51.5085,51.3203,-0.12574,-1.54255,1878,1878,0,United Kingdom,United Kingdom,London,"Fosbury
+",382
+2129250,51.3203,51.5085,-1.54255,-0.12574,1910,1912,2,United Kingdom,United Kingdom,Fosbury,"London
+",383
+2129250,51.5085,51.5085,-0.12574,-0.12574,1912,1912,0,United Kingdom,United Kingdom,London,"London
+",384
+2129250,51.5085,34.1214,-0.12574,-118.106,1912,1918,6,United Kingdom,United States,London,"San Marino
+",385
+2129250,34.1214,34.1214,-118.106,-118.106,1927,1927,0,United States,United States,San Marino,"San Marino
+",386
+2141115,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,NoInfo,Florence,"NoInfo
+",387
+2141115,43.7793,49.8383,11.2463,24.0232,1481,1481,0,NoInfo,Ukraine,NoInfo,"Lviv
+",388
+2141115,49.8383,49.8383,24.0232,24.0232,1853,1853,0,Ukraine,Ukraine,Lviv,"Lviv
+",389
+2141115,49.8383,51.1,24.0232,17.0333,1946,1946,0,Ukraine,Poland,Lviv,"Wroclaw
+",390
+2013774,43.7793,43.7793,11.2463,11.2463,1481,1600,119,Italy,NoInfo,Florence,"NoInfo
+",391
+2013774,43.7793,43.7793,11.2463,11.2463,1800,1600,-200,NoInfo,NoInfo,NoInfo,"NoInfo
+",392
+2013774,43.7793,43.7793,11.2463,11.2463,1700,1800,100,NoInfo,NoInfo,NoInfo,"NoInfo
+",393
+2013774,43.7793,43.7793,11.2463,11.2463,1900,1481,-419,NoInfo,NoInfo,NoInfo,"NoInfo
+",394
+2013774,43.7793,51.5085,11.2463,-0.12574,1600,1800,200,NoInfo,United Kingdom,NoInfo,"London
+",395
+2013774,51.5085,51.5085,-0.12574,-0.12574,1820,1820,0,United Kingdom,United Kingdom,London,"London
+",396
+2013774,51.5085,51.5085,-0.12574,-0.12574,1853,1853,0,United Kingdom,United Kingdom,London,"London
+",397
+2013774,51.5085,40.3212,-0.12574,-79.3795,1882,1960,78,United Kingdom,United States,London,"Latrobe
+",398
+2013774,40.3212,40.7143,-79.3795,-74.006,1999,2000,1,United States,United States,Latrobe,"New York
+",399
+2013774,40.7143,51.5085,-74.006,-0.12574,2000,2015,15,United States,United Kingdom,New York,"London
+",400
+2013774,51.5085,37.9838,-0.12574,23.7278,2015,2015,0,United Kingdom,Greece,London,"Athens
+",401
+2013774,37.9838,37.9838,23.7278,23.7278,2015,2015,0,Greece,Greece,Athens,"Athens
+",402
+2016450,43.7793,45.5469,11.2463,13.7294,1481,1481,0,Italy,Slovenia,Florence,"Koper
+",403
+2016450,45.5469,42.8333,13.7294,12.8333,1488,1488,0,Slovenia,Italy,Koper,"NoInfo
+",404
+2016450,42.8333,43.7793,12.8333,11.2463,1525,1545,20,Italy,Italy,NoInfo,"Florence
+",405
+2016450,43.7793,45.4371,11.2463,12.3327,1625,1690,65,Italy,Italy,Florence,"Venice
+",406
+2016450,45.4371,45.4371,12.3327,12.3327,1750,1750,0,Italy,Italy,Venice,"Venice
+",407
+2016450,45.4371,45.4371,12.3327,12.3327,1810,1810,0,Italy,Italy,Venice,"Venice
+",408
+2128758,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"Italy
+",409
+2128758,42.8333,42.8333,12.8333,12.8333,1500,1650,150,Italy,Italy,Italy,"Italy
+",410
+2128758,42.8333,40.7143,12.8333,-74.006,1750,1901,151,Italy,United States,Italy,"New York
+",411
+2128758,40.7143,40.7143,-74.006,-74.006,1907,1907,0,United States,United States,New York,"New York
+",412
+2128758,40.7143,42.2965,-74.006,-71.2926,1907,1907,0,United States,United States,New York,"Wellesley
+",413
+2140739,43.7793,42.8333,11.2463,12.8333,1481,1601,120,Italy,Italy,Florence,"NoInfo
+",414
+2140739,42.8333,42.8333,12.8333,12.8333,1700,1801,101,Italy,NoInfo,NoInfo,"NoInfo
+",415
+2140739,42.8333,44.6478,12.8333,10.9254,1900,1900,0,NoInfo,Italy,NoInfo,"Modena
+",416
+2140739,44.6478,44.6478,10.9254,10.9254,1970,1970,0,Italy,Italy,Modena,"Modena
+",417
+2141240,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",418
+2141240,42.8333,42.8333,12.8333,12.8333,1600,1700,100,Italy,NoInfo,NoInfo,"NoInfo
+",419
+2141240,42.8333,55.8652,12.8333,-4.25763,1800,1700,-100,NoInfo,United Kingdom,NoInfo,"Glasgow
+",420
+2141240,55.8652,55.8652,-4.25763,-4.25763,1848,1848,0,United Kingdom,United Kingdom,Glasgow,"Glasgow
+",421
+2141240,55.8652,55.8652,-4.25763,-4.25763,1848,1874,26,United Kingdom,United Kingdom,Glasgow,"Glasgow
+",422
+2141240,55.8652,55.8652,-4.25763,-4.25763,1848,1874,26,United Kingdom,United Kingdom,Glasgow,"Glasgow
+",423
+2140723,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"NoInfo
+",424
+2140723,42.8333,44.4048,12.8333,8.94439,1700,1852,152,Italy,Italy,NoInfo,"Genoa
+",425
+2140723,44.4048,44.4048,8.94439,8.94439,1935,1900,-35,Italy,Italy,Genoa,"Genoa
+",426
+2140988,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",427
+2140988,42.8333,43.297,12.8333,5.38107,1500,1840,340,Italy,France,NoInfo,"Marseille
+",428
+2140988,43.297,48.8534,5.38107,2.3488,1886,1902,16,France,France,Marseille,"Paris
+",429
+2140750,43.7793,40.8522,11.2463,14.2681,1481,1812,331,Italy,Italy,Florence,"Naples
+",430
+2140750,40.8522,40.8522,14.2681,14.2681,1815,1816,1,Italy,Italy,Naples,"Naples
+",431
+2140752,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",432
+2140752,42.8333,43.7085,12.8333,10.4036,1800,1481,-319,Italy,Italy,NoInfo,"Pisa
+",433
+2140752,43.7085,43.7085,10.4036,10.4036,1800,1742,-58,Italy,Italy,Pisa,"Pisa
+",434
+2140760,43.7793,43.7212,11.2463,11.7664,1481,1745,264,Italy,Italy,Florence,"Poppi
+",435
+2140760,43.7212,43.7212,11.7664,11.7664,1825,1825,0,Italy,Italy,Poppi,"Poppi
+",436
+2140687,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",437
+2140687,42.8333,44.4667,12.8333,11.4333,1500,1712,212,Italy,Italy,NoInfo,"Bologna
+",438
+2117472,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",439
+2117472,42.8333,48.2082,12.8333,16.3717,1600,1807,207,Italy,Austria,NoInfo,"Vienna
+",440
+2141109,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",441
+2141109,42.8333,45.1921,12.8333,9.15917,1600,1754,154,Italy,Italy,NoInfo,"Pavia
+",442
+2141109,45.1921,45.1921,9.15917,9.15917,1835,1835,0,Italy,Italy,Pavia,"Pavia
+",443
+2141099,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",444
+2141099,42.8333,43.7793,12.8333,11.2463,1600,1750,150,Italy,Italy,NoInfo,"Florence
+",445
+2141099,43.7793,43.7793,11.2463,11.2463,1791,1791,0,Italy,Italy,Florence,"Florence
+",446
+2141099,43.7793,45.4299,11.2463,10.9844,1803,1791,-12,Italy,Italy,Florence,"Verona
+",447
+2141099,45.4299,45.4299,10.9844,10.9844,1808,1821,13,Italy,Italy,Verona,"Verona
+",448
+2141102,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",449
+2141102,42.8333,42.8333,12.8333,12.8333,1500,1501,1,Italy,NoInfo,NoInfo,"NoInfo
+",450
+2141102,42.8333,56.5977,12.8333,24.2076,1600,1834,234,NoInfo,Latvia,NoInfo,"Iecava
+",451
+2141102,56.5977,56.946,24.2076,24.1059,1908,1919,11,Latvia,Latvia,Iecava,"Riga
+",452
+2141016,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",453
+2141016,42.8333,42.8333,12.8333,12.8333,1500,1501,1,Italy,Italy,NoInfo,"NoInfo
+",454
+2141016,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",455
+2141016,42.8333,43.6988,12.8333,11.8147,1600,1481,-119,Italy,Italy,NoInfo,"Bibbiena
+",456
+2141016,43.6988,43.6199,11.8147,11.4719,1985,1926,-59,Italy,Italy,Bibbiena,"Figline Valdarno
+",457
+2141110,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",458
+2141110,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",459
+2141110,42.8333,42.8333,12.8333,12.8333,1600,1800,200,Italy,Italy,NoInfo,"NoInfo
+",460
+2141427,43.7793,42.8333,11.2463,12.8333,1481,1601,120,Italy,Italy,Florence,"NoInfo
+",461
+2141427,42.8333,41.9022,12.8333,12.4533,1700,1700,0,Italy,Vatican City,NoInfo,"Vatican City
+",462
+2141456,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",463
+2141456,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,Italy,NoInfo,"NoInfo
+",464
+2141456,42.8333,42.8333,12.8333,12.8333,1600,1719,119,Italy,NoInfo,NoInfo,"NoInfo
+",465
+2141456,42.8333,41.8919,12.8333,12.5113,1720,1913,193,NoInfo,Italy,NoInfo,"Rome
+",466
+2140731,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",467
+2140731,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",468
+2140731,42.8333,44.3091,12.8333,8.47715,1600,1647,47,Italy,Italy,NoInfo,"Savona
+",469
+2140731,44.3091,43.8437,8.47715,10.5045,1647,1794,147,Italy,Italy,Savona,"Lucca
+",470
+2141434,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",471
+2141434,42.8333,43.6598,12.8333,11.1849,1500,1481,-19,Italy,Italy,NoInfo,"San Casciano in Val di Pesa
+",472
+2141434,43.6598,42.8333,11.1849,12.8333,1500,1601,101,Italy,Italy,San Casciano in Val di Pesa,"NoInfo
+",473
+2141434,42.8333,42.8333,12.8333,12.8333,1700,1501,-199,Italy,Italy,NoInfo,"NoInfo
+",474
+2141434,42.8333,41.8919,12.8333,12.5113,1700,1722,22,Italy,Italy,NoInfo,"Rome
+",475
+2141434,41.8919,41.9022,12.5113,12.4533,1746,1746,0,Italy,Vatican City,Rome,"Vatican City
+",476
+2141204,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,Italy,Florence,"Florence
+",477
+2141204,43.7793,48.691,11.2463,9.14062,1503,1501,-2,Italy,NoInfo,Florence,"Europe
+",478
+2141204,48.691,43.7793,9.14062,11.2463,1600,1728,128,NoInfo,Italy,Europe,"Florence
+",479
+2141204,43.7793,44.4938,11.2463,11.3387,1728,1871,143,Italy,Italy,Florence,"Bologna
+",480
+2141204,44.4938,42.3751,11.3387,-71.1056,1871,1871,0,Italy,United States,Bologna,"Cambridge
+",481
+2141204,42.3751,42.3751,-71.1056,-71.1056,1905,1905,0,United States,United States,Cambridge,"Cambridge
+",482
+2141492,43.7793,40.8522,11.2463,14.2681,1481,1747,266,Italy,Italy,Florence,"Naples
+",483
+2141492,40.8522,52.2811,14.2681,-1.00095,1825,1819,-6,Italy,United Kingdom,Naples,"Althorp
+",484
+2141492,52.2811,40.7143,-1.00095,-74.006,1834,1855,21,United Kingdom,United States,Althorp,"New York
+",485
+2141492,40.7143,40.7143,-74.006,-74.006,1912,1913,1,United States,United States,New York,"New York
+",486
+2145052,43.7793,42.8333,11.2463,12.8333,1481,1500,19,Italy,Italy,Florence,"NoInfo
+",487
+2145052,42.8333,43.7793,12.8333,11.2463,1600,1500,-100,Italy,Italy,NoInfo,"Florence
+",488
+2145052,43.7793,52.6833,11.2463,0.61667,1600,1714,114,Italy,United Kingdom,Florence,"Narford
+",489
+2145052,52.6833,51.5085,0.61667,-0.12574,1902,1902,0,United Kingdom,United Kingdom,Narford,"London
+",490
+2145052,51.5085,41.4901,-0.12574,-71.3128,1918,1919,1,United Kingdom,United States,London,"Newport
+",491
+2145052,41.4901,40.7143,-71.3128,-74.006,1933,1934,1,United States,United States,Newport,"New York
+",492
+2145052,40.7143,40.7143,-74.006,-74.006,1949,1953,4,United States,United States,New York,"New York
+",493
+2145052,40.7143,40.7143,-74.006,-74.006,1958,1958,0,United States,United States,New York,"New York
+",494
+2145052,40.7143,50.0494,-74.006,10.2218,1958,1958,0,United States,Germany,New York,"Schweinfurt
+",495
+2141553,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,Italy,Florence,"Florence
+",496
+2141553,43.7793,43.7793,11.2463,11.2463,1550,1481,-69,Italy,NoInfo,Florence,"
+",497
+2141553,43.7793,51.5085,11.2463,-0.12574,1550,1743,193,NoInfo,United Kingdom,,"London
+",498
+2141553,51.5085,52.2811,-0.12574,-1.00095,1815,1815,0,United Kingdom,United Kingdom,London,"Althorp
+",499
+2141553,52.2811,51.5085,-1.00095,-0.12574,1821,1821,0,United Kingdom,United Kingdom,Althorp,"London
+",500
+2141553,51.5085,52.0313,-0.12574,-1.01815,1821,1821,0,United Kingdom,United Kingdom,London,"Stowe
+",501
+2141553,52.0313,51.5085,-1.01815,-0.12574,1839,1839,0,United Kingdom,United Kingdom,Stowe,"London
+",502
+2141553,51.5085,51.5085,-0.12574,-0.12574,1849,1849,0,United Kingdom,United Kingdom,London,"London
+",503
+2141553,51.5085,51.5085,-0.12574,-0.12574,1884,1884,0,United Kingdom,United Kingdom,London,"London
+",504
+2141553,51.5085,51.5085,-0.12574,-0.12574,1884,1884,0,United Kingdom,NoInfo,London,"
+",505
+2141553,51.5085,51.5085,-0.12574,-0.12574,1891,1891,0,NoInfo,United Kingdom,,"London
+",506
+2141553,51.5085,40.8522,-0.12574,14.2681,1891,1891,0,United Kingdom,Italy,London,"Naples
+",507
+2141553,40.8522,55.6359,14.2681,-3.46807,1894,1894,0,Italy,United Kingdom,Naples,"Skirling
+",508
+2141553,55.6359,40.7143,-3.46807,-74.006,1903,1903,0,United Kingdom,United States,Skirling,"New York
+",509
+2141553,40.7143,40.7143,-74.006,-74.006,1924,1924,0,United States,United States,New York,"New York
+",510
+2141227,43.7793,55.9909,11.2463,-3.39847,1481,1481,0,Italy,United Kingdom,Florence,"Queensferry
+",511
+2141227,55.9909,51.7522,-3.39847,-1.25596,1889,1889,0,United Kingdom,United Kingdom,Queensferry,"Oxford
+",512
+2140776,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",513
+2140776,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,NoInfo,NoInfo,"NoInfo
+",514
+2140776,42.8333,41.8919,12.8333,12.5113,1576,1601,25,NoInfo,Italy,NoInfo,"Rome
+",515
+2141400,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",516
+2141400,42.8333,51.5085,12.8333,-0.12574,1500,1674,174,Italy,United Kingdom,NoInfo,"London
+",517
+2141400,51.5085,51.8485,-0.12574,-1.35132,1722,1749,27,United Kingdom,United Kingdom,London,"Woodstock
+",518
+2141400,51.8485,40.7143,-1.35132,-74.006,1881,1870,-11,United Kingdom,United States,Woodstock,"New York
+",519
+2141400,40.7143,40.7143,-74.006,-74.006,1908,1912,4,United States,United States,New York,"New York
+",520
+2141400,40.7143,48.8534,-74.006,2.3488,1912,1958,46,United States,France,New York,"Paris
+",521
+2141400,48.8534,35.6895,2.3488,139.692,1912,1958,46,France,Japan,Paris,"Tokyo
+",522
+2141400,35.6895,35.6895,139.692,139.692,2008,2008,0,Japan,Japan,Tokyo,"Tokyo
+",523
+2140685,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",524
+2140685,42.8333,42.8333,12.8333,12.8333,1500,1579,79,Italy,Italy,NoInfo,"NoInfo
+",525
+2140685,42.8333,42.8333,12.8333,12.8333,1579,1579,0,Italy,Italy,NoInfo,"NoInfo
+",526
+2140685,42.8333,42.8333,12.8333,12.8333,1579,1591,12,Italy,Italy,NoInfo,"NoInfo
+",527
+2140685,42.8333,43.4628,12.8333,11.8807,1591,1609,18,Italy,Italy,NoInfo,"Arezzo
+",528
+2140732,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",529
+2140732,42.8333,43.8437,12.8333,10.5045,1600,1886,286,Italy,Italy,NoInfo,"Lucca
+",530
+2141029,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",531
+2141029,42.8333,43.7793,12.8333,11.2463,1550,1613,63,Italy,Italy,NoInfo,"Florence
+",532
+2141029,43.7793,43.7793,11.2463,11.2463,1613,1690,77,Italy,NoInfo,Florence,"
+",533
+2141029,43.7793,43.7793,11.2463,11.2463,1690,1690,0,NoInfo,Italy,,"Florence
+",534
+2141029,43.7793,44.4134,11.2463,12.2012,1712,1970,258,Italy,Italy,Florence,"Ravenna
+",535
+2141588,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",536
+2141588,42.8333,42.8333,12.8333,12.8333,1500,1501,1,Italy,Italy,NoInfo,"NoInfo
+",537
+2141588,42.8333,42.8333,12.8333,12.8333,1600,1601,1,Italy,NoInfo,NoInfo,"NoInfo
+",538
+2141588,42.8333,51.0509,12.8333,13.7383,1700,1793,93,NoInfo,Germany,NoInfo,"Dresden
+",539
+2141588,51.0509,52.3705,13.7383,9.73322,1865,1831,-34,Germany,Germany,Dresden,"Hanover
+",540
+2141588,52.3705,52.2407,9.73322,0.50415,1870,1870,0,Germany,United Kingdom,Hanover,"East of England
+",541
+2141588,52.2407,48.2085,0.50415,16.3721,1870,1853,-17,United Kingdom,Austria,East of England,"Vienna
+",542
+2141588,48.2085,53.9,16.3721,27.5667,1870,1922,52,Austria,Belarus,Vienna,"Minsk
+",543
+2141168,43.7793,42.8333,11.2463,12.8333,1481,1500,19,Italy,Italy,Florence,"NoInfo
+",544
+2141168,42.8333,45.0705,12.8333,7.68682,1599,1720,121,Italy,Italy,NoInfo,"Turin
+",545
+2140634,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,NoInfo,Florence,"NoInfo
+",546
+2140634,43.7793,42.8333,11.2463,12.8333,1700,1690,-10,NoInfo,Italy,NoInfo,"NoInfo
+",547
+2140634,42.8333,48.8534,12.8333,2.3488,1690,1829,139,Italy,France,NoInfo,"Paris
+",548
+2140634,48.8534,48.8534,2.3488,2.3488,1906,1913,7,France,France,Paris,"Paris
+",549
+2141251,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",550
+2141251,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,NoInfo,NoInfo,"NoInfo
+",551
+2141251,42.8333,42.3751,12.8333,-71.1056,1600,1816,216,NoInfo,United States,NoInfo,"Cambridge
+",552
+2141251,42.3751,42.3751,-71.1056,-71.1056,1871,1896,25,United States,NoInfo,Cambridge,"NoInfo
+",553
+2140686,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,Italy,Florence,"Florence
+",554
+2140686,43.7793,42.8333,11.2463,12.8333,1600,1481,-119,Italy,Italy,Florence,"NoInfo
+",555
+2140686,42.8333,44.4938,12.8333,11.3387,1600,1775,175,Italy,Italy,NoInfo,"Bologna
+",556
+2140686,44.4938,44.4667,11.3387,11.4333,1847,1847,0,Italy,Italy,Bologna,"Bologna
+",557
+2141596,43.7793,43.7793,11.2463,11.2463,1481,1582,101,Italy,Italy,Florence,"Florence
+",558
+2141596,43.7793,42.8333,11.2463,12.8333,1582,1601,19,Italy,Italy,Florence,"NoInfo
+",559
+2141596,42.8333,45.4643,12.8333,9.18951,1700,1801,101,Italy,Italy,NoInfo,"Milan
+",560
+2141596,45.4643,45.4643,9.18951,9.18951,1801,1850,49,Italy,NoInfo,Milan,"NoInfo
+",561
+2141596,45.4643,51.1854,9.18951,6.44172,1900,1900,0,NoInfo,Germany,NoInfo,"M�nchengladbach
+",562
+2141596,51.1854,50.9333,6.44172,6.95,1943,1964,21,Germany,Germany,M�nchengladbach,"Cologne
+",563
+2140704,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",564
+2140704,42.8333,43.7793,12.8333,11.2463,1500,1528,28,Italy,Italy,NoInfo,"Florence
+",565
+2140704,43.7793,43.7793,11.2463,11.2463,1528,1528,0,Italy,Italy,Florence,"Florence
+",566
+2140704,43.7793,43.7793,11.2463,11.2463,1809,1809,0,Italy,Italy,Florence,"Florence
+",567
+2140704,43.7793,43.7793,11.2463,11.2463,1861,1861,0,Italy,Italy,Florence,"Florence
+",568
+2141035,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"NoInfo
+",569
+2141035,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,Italy,NoInfo,"NoInfo
+",570
+2141035,42.8333,43.8805,12.8333,11.097,1700,1607,-93,Italy,Italy,NoInfo,"Prato
+",571
+2141035,43.8805,43.7793,11.097,11.2463,1607,1849,242,Italy,Italy,Prato,"Florence
+",572
+2141035,43.7793,43.7793,11.2463,11.2463,1874,1874,0,Italy,Italy,Florence,"Florence
+",573
+2141035,43.7793,43.7793,11.2463,11.2463,1905,1907,2,Italy,Italy,Florence,"Florence
+",574
+2140738,43.7793,43.7793,11.2463,11.2463,1481,1521,40,Italy,Italy,Florence,"Florence
+",575
+2140738,43.7793,42.8333,11.2463,12.8333,1521,1481,-40,Italy,Italy,Florence,"NoInfo
+",576
+2140738,42.8333,44.6478,12.8333,10.9254,1500,1481,-19,Italy,Italy,NoInfo,"Modena
+",577
+2140738,44.6478,44.6478,10.9254,10.9254,1829,1829,0,Italy,Italy,Modena,"Modena
+",578
+2141048,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"NoInfo
+",579
+2141048,42.8333,44.0731,12.8333,10.4779,1600,1699,99,Italy,Italy,NoInfo,"Barga
+",580
+2141048,44.0731,43.5443,10.4779,10.3261,1699,1700,1,Italy,Italy,Barga,"Livorno
+",581
+2141048,43.5443,43.5443,10.3261,10.3261,1869,1869,0,Italy,Italy,Livorno,"Livorno
+",582
+2140700,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",583
+2140700,42.8333,43.7793,12.8333,11.2463,1500,1481,-19,Italy,Italy,NoInfo,"Florence
+",584
+2140700,43.7793,43.7793,11.2463,11.2463,1500,1714,214,Italy,Italy,Florence,"Florence
+",585
+2140700,43.7793,43.7793,11.2463,11.2463,1861,1861,0,Italy,Italy,Florence,"Florence
+",586
+2140703,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",587
+2140703,42.8333,43.7085,12.8333,10.4036,1500,1500,0,Italy,Italy,NoInfo,"Pisa
+",588
+2140703,43.7085,43.7793,10.4036,11.2463,1556,1745,189,Italy,Italy,Pisa,"Florence
+",589
+2140703,43.7793,43.7793,11.2463,11.2463,1801,1830,29,Italy,Italy,Florence,"Florence
+",590
+2140703,43.7793,43.7793,11.2463,11.2463,1830,1861,31,Italy,Italy,Florence,"Florence
+",591
+2141082,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",592
+2141082,42.8333,43.7793,12.8333,11.2463,1600,1714,114,Italy,Italy,NoInfo,"Florence
+",593
+2141082,43.7793,55.9521,11.2463,-3.19648,1861,1807,-54,Italy,United Kingdom,Florence,"Edinburgh
+",594
+2141082,55.9521,55.9521,-3.19648,-3.19648,1861,1925,64,United Kingdom,United Kingdom,Edinburgh,"Edinburgh
+",595
+2141097,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",596
+2141097,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,Italy,NoInfo,"NoInfo
+",597
+2141097,42.8333,43.7085,12.8333,10.4036,1600,1481,-119,Italy,Italy,NoInfo,"Pisa
+",598
+2141097,43.7085,42.8333,10.4036,12.8333,1550,1601,51,Italy,Italy,Pisa,"NoInfo
+",599
+2141097,42.8333,42.8333,12.8333,12.8333,1700,1750,50,Italy,NoInfo,NoInfo,"NoInfo
+",600
+2141097,42.8333,50.1155,12.8333,8.68417,1800,1812,12,NoInfo,Germany,NoInfo,"Frankfurt am Main
+",601
+2141097,50.1155,50.1155,8.68417,8.68417,1812,1812,0,Germany,NoInfo,Frankfurt am Main,"NoInfo
+",602
+2141097,50.1155,45.6495,8.68417,13.7768,1898,1898,0,NoInfo,Italy,NoInfo,"Trieste
+",603
+2141097,45.6495,41.8919,13.7768,12.5113,1920,1918,-2,Italy,Italy,Trieste,"Rome
+",604
+2140725,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",605
+2140725,42.8333,42.8333,12.8333,12.8333,1600,1550,-50,Italy,NoInfo,NoInfo,"NoInfo
+",606
+2140725,42.8333,45.4643,12.8333,9.18951,1600,1730,130,NoInfo,Italy,NoInfo,"Milan
+",607
+2140725,45.4643,52.374,9.18951,4.88969,1789,1789,0,Italy,Netherlands,Milan,"Amsterdam
+",608
+2140725,52.374,44.4048,4.88969,8.94439,1789,1789,0,Netherlands,Italy,Amsterdam,"Genoa
+",609
+2140725,44.4048,44.4048,8.94439,8.94439,1812,1812,0,Italy,Italy,Genoa,"Genoa
+",610
+2141098,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,Italy,Florence,"Florence
+",611
+2141098,43.7793,40.7259,11.2463,8.55552,1600,1800,200,Italy,Italy,Florence,"Sassari
+",612
+2141098,40.7259,40.7259,8.55552,8.55552,1874,1875,1,Italy,Italy,Sassari,"Sassari
+",613
+2140849,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",614
+2140849,43.7793,35.6854,11.2463,139.753,1700,1801,101,NoInfo,Japan,NoInfo,"NoInfo
+",615
+2140849,35.6854,41.07,139.753,1.05949,1900,1900,0,Japan,Spain,NoInfo,"Cambrils
+",616
+2140849,41.07,41.3888,1.05949,2.15899,1969,1888,-81,Spain,Spain,Cambrils,"Barcelona
+",617
+2140849,41.3888,41.3888,2.15899,2.15899,1958,1959,1,Spain,Spain,Barcelona,"Barcelona
+",618
+2141338,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",619
+2141338,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",620
+2141338,42.8333,38.132,12.8333,13.3356,1600,1481,-119,Italy,Italy,NoInfo,"Palermo
+",621
+2141338,38.132,38.132,13.3356,13.3356,1981,1981,0,Italy,Italy,Palermo,"Palermo
+",622
+2140675,43.7793,42.8333,11.2463,12.8333,1481,1550,69,Italy,Italy,Florence,"NoInfo
+",623
+2140675,42.8333,48.2085,12.8333,16.3721,1792,1792,0,Italy,Austria,NoInfo,"Vienna
+",624
+2140675,48.2085,48.1374,16.3721,11.5755,1824,1806,-18,Austria,Germany,Vienna,"Munich
+",625
+2140751,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"NoInfo
+",626
+2140751,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",627
+2140751,42.8333,42.8333,12.8333,12.8333,1600,1701,101,Italy,NoInfo,NoInfo,"NoInfo
+",628
+2140751,42.8333,44.7994,12.8333,10.3262,1900,1761,-139,NoInfo,Italy,NoInfo,"Parma
+",629
+2140709,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",630
+2140709,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",631
+2140709,42.8333,42.8333,12.8333,12.8333,1600,1481,-119,Italy,Italy,NoInfo,"NoInfo
+",632
+2140709,42.8333,43.7793,12.8333,11.2463,1600,1811,211,Italy,Italy,NoInfo,"Florence
+",633
+2140855,43.7793,43.7793,11.2463,11.2463,1481,1501,20,Italy,NoInfo,Florence,"NoInfo
+",634
+2140855,43.7793,43.7793,11.2463,11.2463,1600,1501,-99,NoInfo,Italy,NoInfo,"Florence
+",635
+2140855,43.7793,35.6854,11.2463,139.753,1600,1800,200,Italy,Japan,Florence,"NoInfo
+",636
+2140855,35.6854,59.8588,139.753,17.6389,1900,1800,-100,Japan,Sweden,NoInfo,"Uppsala
+",637
+2140770,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"NoInfo
+",638
+2140770,42.8333,42.8333,12.8333,12.8333,1600,1501,-99,Italy,Italy,NoInfo,"NoInfo
+",639
+2140770,42.8333,41.8919,12.8333,12.5113,1600,1851,251,Italy,Italy,NoInfo,"Rome
+",640
+2141191,43.7793,45.4371,11.2463,12.3327,1481,1696,215,Italy,Italy,Florence,"Venice
+",641
+2141191,45.4371,51.7522,12.3327,-1.25596,1800,1803,3,Italy,United Kingdom,Venice,"Oxford
+",642
+2141108,43.7793,40,11.2463,-4,1481,1481,0,Italy,Spain,Florence,"NoInfo
+",643
+2141108,40,40,-4,-4,1500,1615,115,Spain,Spain,NoInfo,"NoInfo
+",644
+2141108,40,42.8805,-4,-8.54569,1615,1615,0,Spain,Spain,NoInfo,"Santiago de Compostela
+",645
+2011395,43.7793,43.7793,11.2463,11.2463,1481,1481,0,Italy,Italy,Florence,"Florence
+",646
+2011395,43.7793,43.7793,11.2463,11.2463,1600,1801,201,Italy,NoInfo,Florence,"NoInfo
+",647
+2011395,43.7793,42.8333,11.2463,12.8333,1600,1801,201,NoInfo,Italy,NoInfo,"NoInfo
+",648
+2011395,42.8333,42.8333,12.8333,12.8333,1600,1801,201,Italy,NoInfo,NoInfo,"NoInfo
+",649
+2011395,42.8333,42.8333,12.8333,12.8333,1600,1801,201,NoInfo,Italy,NoInfo,"NoInfo
+",650
+2141034,43.7793,43.7793,11.2463,11.2463,1481,1496,15,Italy,Italy,Florence,"Florence
+",651
+2141034,43.7793,42.8333,11.2463,12.8333,1528,1990,462,Italy,Italy,Florence,"NoInfo
+",652
+2140961,43.7793,48.8534,11.2463,2.3488,1481,1853,372,Italy,France,Florence,"Paris
+",653
+2140961,48.8534,48.8534,2.3488,2.3488,1917,1917,0,France,France,Paris,"Paris
+",654
+2140961,48.8534,48.8534,2.3488,2.3488,2003,2003,0,France,France,Paris,"Paris
+",655
+2141280,43.7793,45.4643,11.2463,9.18951,1481,1500,19,Italy,Italy,Florence,"Milan
+",656
+2141280,45.4643,48.691,9.18951,9.14062,1566,1500,-66,Italy,NoInfo,Milan,"Europe
+",657
+2141280,48.691,52.0389,9.14062,0.73117,1566,1825,259,NoInfo,United Kingdom,Europe,"Sudbury
+",658
+2141280,52.0389,51.5085,0.73117,-0.12574,1866,1918,52,United Kingdom,United Kingdom,Sudbury,"London
+",659
+2141280,51.5085,38.0293,-0.12574,-78.4767,1927,1928,1,United Kingdom,United States,London,"Charlottesville
+",660
+2141280,38.0293,45.0282,-78.4767,11.6426,1960,1960,0,United States,Italy,Charlottesville,"Fratta Polesine
+",661
+2141280,45.0282,37.4241,11.6426,-122.166,1987,1987,0,Italy,United States,Fratta Polesine,"Stanford
+",662
+201623,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"Italy
+",663
+201623,42.8333,45.4371,12.8333,12.3327,1600,1735,135,Italy,Italy,Italy,"Venice
+",664
+201623,45.4371,51.4861,12.3327,-3.60861,1789,1823,34,Italy,United Kingdom,Venice,"Merthyr Mawr
+",665
+201623,51.4861,52.1604,-3.60861,-0.70312,1869,1870,1,United Kingdom,United Kingdom,Merthyr Mawr,"England
+",666
+201623,52.1604,42.3584,-0.70312,-71.0598,1936,1936,0,United Kingdom,United States,England,"Boston
+",667
+201623,42.3584,42.3751,-71.0598,-71.1056,1951,1951,0,United States,United States,Boston,"Cambridge
+",668
+2140702,43.7793,42.8333,11.2463,12.8333,1481,1501,20,Italy,Italy,Florence,"NoInfo
+",669
+2140702,42.8333,43.7793,12.8333,11.2463,1550,1708,158,Italy,Italy,NoInfo,"Florence
+",670
+2140702,43.7793,43.7793,11.2463,11.2463,1765,1714,-51,Italy,Italy,Florence,"Florence
+",671
+2140702,43.7793,43.7793,11.2463,11.2463,1861,1885,24,Italy,Italy,Florence,"Florence
+",672
+2141122,43.7793,43.7793,11.2463,11.2463,1481,1486,5,Italy,Italy,Florence,"Florence
+",673
+2141122,43.7793,43.7793,11.2463,11.2463,1560,1501,-59,Italy,NoInfo,Florence,"NoInfo
+",674
+2141122,43.7793,51.0509,11.2463,13.7383,1800,1700,-100,NoInfo,Germany,NoInfo,"Dresden
+",675
+2141122,51.0509,51.0509,13.7383,13.7383,1763,1768,5,Germany,Germany,Dresden,"Dresden
+",676
+2141122,51.0509,51.0509,13.7383,13.7383,1775,1775,0,Germany,Germany,Dresden,"Dresden
+",677
+2001011,43.7793,45.4389,11.2463,12.3309,1481,1701,220,Italy,Italy,Florence,"Venice
+",678
+2001011,45.4389,51.5085,12.3309,-0.12574,1761,1761,0,Italy,United Kingdom,Venice,"London
+",679
+2001011,51.5085,51.5085,-0.12574,-0.12574,1820,1821,1,United Kingdom,United Kingdom,London,"London
+",680
+2140726,43.7793,42.8333,11.2463,12.8333,1481,1481,0,Italy,Italy,Florence,"NoInfo
+",681
+2140726,42.8333,42.8333,12.8333,12.8333,1500,1481,-19,Italy,Italy,NoInfo,"NoInfo
+",682
+2140726,42.8333,48.3715,12.8333,10.8985,1700,1730,30,Italy,Germany,NoInfo,"Augsburg
+",683
+2140726,48.3715,48.3715,10.8985,10.8985,1700,1808,108,Germany,Germany,Augsburg,"Augsburg
+",684
+2140726,48.3715,48.3715,10.8985,10.8985,1700,1811,111,Germany,Germany,Augsburg,"Augsburg
+",685
